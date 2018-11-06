@@ -10,6 +10,6 @@ This goal of this project is to provide a public space to document and solve iss
   + Issues can be searched using [[https://gitlab.com/mankoff/PROMICE-AWS-data-issues/labels][labels]], and filtered by Station Name, Year, or Sensor
   + Click in the search box to add additional label filters
   
-+ Once an issue has been submitted, a PROMICE scientist will examine and add the [[https://gitlab.com/mankoff/PROMICE-AWS-data-issues/labels/CONFIRMED][CONFIRMED]] label.
++ Once an issue has been submitted, a PROMICE scientist will examine and add the [[https://gitlab.com/mankoff/PROMICE-AWS-data-issues/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CONFIRMED][CONFIRMED]] label.
 
-+ If an issue can be solved, a solution will be added to the issue and the [[https://gitlab.com/mankoff/PROMICE-AWS-data-issues/labels/SOLUTION][SOLUTION]] label will be added.
++ If an issue can be solved, a solution will be added to the issue and the[[https://gitlab.com/mankoff/PROMICE-AWS-data-issues/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=SOLUTION][SOLUTION]] label will be added.
