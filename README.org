@@ -6,10 +6,10 @@ This goal of this project is to provide a public space to document and solve iss
 
 * Workflow
 
-+  If you are using PROMICE AWS data and something seems amiss, you can search the [[https://github.com/mankoff/PROMICE-AWS-data-issues/issues][issues]] to see if someone else has documented the issue.
-  + Issues can be searched using [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels][labels]], and filtered by Station Name, Year, or Sensor
-  + The [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels][label]] link lets you select only 1 label. For more complex searches you have to enter "label:<label>" in the search field.
++  If you are using PROMICE AWS data and something seems amiss, you can search the [[https://gitlab.com/mankoff/PROMICE-AWS-data-issues/issues][issues]] to see if someone else has documented the issue.
+  + Issues can be searched using [[https://gitlab.com/mankoff/PROMICE-AWS-data-issues/labels][labels]], and filtered by Station Name, Year, or Sensor
+  + Click in the search box to add additional label filters
   
-+ Once an issue has been submitted, a PROMICE scientist will examine and add the [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/CONFIRMED][CONFIRMED]] label.
++ Once an issue has been submitted, a PROMICE scientist will examine and add the [[https://gitlab.com/mankoff/PROMICE-AWS-data-issues/labels/CONFIRMED][CONFIRMED]] label.
 
-+ If an issue can be solved, a solution will be added to the issue and the [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/SOLUTION][SOLUTION]] label will be added.
++ If an issue can be solved, a solution will be added to the issue and the [[https://gitlab.com/mankoff/PROMICE-AWS-data-issues/labels/SOLUTION][SOLUTION]] label will be added.
