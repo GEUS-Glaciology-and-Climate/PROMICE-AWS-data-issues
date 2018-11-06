@@ -6,7 +6,7 @@ This goal of this project is to provide a public space to document and solve iss
 
 # Issue Labels
 
-+ Time: ~ALL_TIME ~2012 ~2013 ~2014 ~2015 ~2016 ~2017 ~2018 ~2019
++ Time: ~ALL_TIME ~"2012" ~"2013" ~"2014" ~"2015" ~"2016" ~"2017" ~"2018" ~"2019"
 + Station: ~ALL_STATION ~UPE_L ~UPE_U 
 + Sensor: ~"Wind Direction" ~"SR50 - boom" ~"SR50 - stakes"
 
