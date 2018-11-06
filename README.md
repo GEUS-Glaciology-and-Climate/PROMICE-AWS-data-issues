@@ -4,6 +4,13 @@ Automatic weather station (AWS) data from the Greenland Ice Sheet are often impe
 
 This goal of this project is to provide a public space to document and solve issues with PROMICE AWS data.
 
+# Issue Labels
+
++ Time: ~ALL_TIME ~2012 ~2013 ~2014 ~2015 ~2016 ~2017 ~2018 ~2019
++ Station: ~ALL_STATION ~UPE_L ~UPE_U 
++ Sensor: ~"Wind Direction" ~"SR50 - boom" ~"SR50 - stakes"
+
+
 # Workflow
 
 +  If you are using PROMICE AWS data and something seems amiss, you can search the [issues](https://gitlab.com/mankoff/PROMICE-AWS-data-issues/issues) to see if someone else has documented the issue.
