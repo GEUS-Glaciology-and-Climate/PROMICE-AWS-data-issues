@@ -1,6 +1,6 @@
 # PROMICE AWS Data Issue
 
-Automatic weather station (AWS) data from the Greenland Ice Sheet is often imperfect due to the complexity and conditions involved in installing and maintaining the AWS.
+Automatic weather station (AWS) data from the Greenland Ice Sheet are often imperfect due to the complexity and conditions involved in installing and maintaining the AWS.
 
 This goal of this project is to provide a public space to document and solve issues with PROMICE AWS data.
 
