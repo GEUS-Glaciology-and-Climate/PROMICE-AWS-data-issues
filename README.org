@@ -1,0 +1,22 @@
+* PROMICE AWS Data Issue
+
+Automatic weather station (AWS) data from the Greenland Ice Sheet are often imperfect due to the complexity and conditions involved in installing and maintaining the AWS.
+
+This goal of this project is to provide a public space to document and solve issues with [[https://www.promice.org/][PROMICE]] AWS data.
+
+** Issue Labels
+
++ Time: [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/ALL_TIME][ALL_TIME]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2012][2012]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2013][2013]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2014][2014]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2015][2015]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2016][2016]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2017][2017]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2018][2018]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2019][2019]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2020][2020]]
++ Station: [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/ALL_STATION][ALL_STATION]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/UPE_L][UPE_L]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/UPE_U][UPE_U]] 
++ Sensor: [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/Wind Direction][Wind Direction]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/SR50 - boom][SR50 - boom]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/SR50 - stakes][SR50 - stakes]]
+
+
+** Workflow
+
++  If you are using PROMICE AWS data and something seems amiss, you can search the [[https://github.com/mankoff/PROMICE-AWS-data-issues/issues][issues]] to see if someone else has documented the issue.
+  + Issues can be searched using [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels][labels]] and filtered by Station Name, Year, or Sensor
+  + Click in the search box to add additional label filters
+  
++ Once an issue has been submitted, a PROMICE scientist will examine and add the [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/CONFIRMED][CONFIRMED]] label.
+
++ If an issue can be solved, a solution will be added to the issue and the [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/SOLUTION][SOLUTION]] label will be added.
