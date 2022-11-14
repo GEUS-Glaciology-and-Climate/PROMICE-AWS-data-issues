@@ -6,17 +6,17 @@ This goal of this project is to provide a public space to document and solve iss
 
 ** Issue Labels
 
-+ Time: [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/ALL_TIME][ALL_TIME]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2012][2012]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2013][2013]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2014][2014]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2015][2015]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2016][2016]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2017][2017]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2018][2018]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2019][2019]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/2020][2020]]
-+ Station: [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/ALL_STATION][ALL_STATION]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/UPE_L][UPE_L]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/UPE_U][UPE_U]] 
-+ Sensor: [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/Wind Direction][Wind Direction]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/SR50 - boom][SR50 - boom]] [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/SR50 - stakes][SR50 - stakes]]
++ Time: https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/ALL_TIME https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2012 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2013 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2014 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2015 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2016 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2017 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2018 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2019 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2020 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2021 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2022 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2023 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2024 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2025
++ Station: https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/ALL_STATION https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_L https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_U
++ Sensor: [[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/Wind%20Direction]] [[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SR50%20-%20boom]] [[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SR50%20-%20stakes]]
 
 
 ** Workflow
 
-+  If you are using PROMICE AWS data and something seems amiss, you can search the [[https://github.com/mankoff/PROMICE-AWS-data-issues/issues][issues]] to see if someone else has documented the issue.
-  + Issues can be searched using [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels][labels]] and filtered by Station Name, Year, or Sensor
++  If you are using PROMICE AWS data and something seems amiss, you can search the [[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues][issues]] to see if someone else has documented the issue.
+  + Issues can be searched using [[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels][labels]] and filtered by Station Name, Year, or Sensor
   + Click in the search box to add additional label filters
   
-+ Once an issue has been submitted, a PROMICE scientist will examine and add the [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/CONFIRMED][CONFIRMED]] label.
++ Once an issue has been submitted, a PROMICE scientist will examine and add the https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/CONFIRMED label.
 
-+ If an issue can be solved, a solution will be added to the issue and the [[https://github.com/mankoff/PROMICE-AWS-data-issues/labels/SOLUTION][SOLUTION]] label will be added.
++ If an issue can be solved, a solution will be added to the issue and the https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SOLUTION label will be added.
