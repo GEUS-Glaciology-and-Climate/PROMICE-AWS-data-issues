@@ -6,9 +6,36 @@ This goal of this project is to provide a public space to document and solve iss
 
 ** Issue Labels
 
-+ Time: https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/ALL_TIME https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2012 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2013 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2014 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2015 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2016 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2017 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2018 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2019 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2020 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2021 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2022 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2023 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2024 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2025
-+ Station: https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/ALL_STATION https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_L https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_U
-+ Sensor: [[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/Wind%20Direction]] [[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SR50%20-%20boom]] [[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SR50%20-%20stakes]]
+*** Time
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/ALL_TIME 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2012 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2013 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2014 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2015 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2016 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2017 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2018 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2019 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2020 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2021 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2022 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2023 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2024 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/2025
+
+*** Station
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/ALL_STATION 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/EGP
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/KPC_Uv3
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/NUUK_K
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_L 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_U
+
+*** Sensor
+
+[[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/Wind%20Direction]] 
+[[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SR50%20-%20boom]] 
+[[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SR50%20-%20stakes]]
 
 
 ** Workflow
