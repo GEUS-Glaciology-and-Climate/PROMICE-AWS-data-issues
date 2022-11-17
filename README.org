@@ -27,7 +27,7 @@ https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/20
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/ALL_STATION 
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/EGP
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/KPC_Uv3
-https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/NUUK_K
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/NUK_K
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_L 
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_U
 
