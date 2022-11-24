@@ -33,7 +33,8 @@ https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UP
 
 *** Sensor
 
-[[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/Wind%20Direction]] 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/WindDirection
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/WindSpeed
 [[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SR50%20-%20boom]] 
 [[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SR50%20-%20stakes]]
 
