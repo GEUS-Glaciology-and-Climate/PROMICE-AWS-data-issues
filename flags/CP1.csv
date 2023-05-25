@@ -1,4 +1,5 @@
 t0, t1, variable, flag, comment, URL_graphic
-2023-01-02T14:00:00+00:00, 2023-01-05T00:00:00+00:00, p_u p_i, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/20
-2023-01-18T14:00:00+00:00, 2023-01-22T19:00:00+00:00, p_u, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/20
+2023-01-02T14:00:00+00:00, 2023-01-05T00:00:00+00:00, p_u p_i p_l, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/20
+2023-01-18T00:00:00+00:00, 2023-01-22T19:00:00+00:00, p_u, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/20
+2023-01-19T19:00:00+00:00, 2023-01-22T19:00:00+00:00, p_l, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/20
 2023-01-20T00:00:00+00:00, 2023-01-22T19:00:00+00:00, p_i, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/20
