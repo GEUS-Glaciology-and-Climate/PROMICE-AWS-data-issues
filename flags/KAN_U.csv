@@ -1,0 +1,5 @@
+t0,t1,variable,flag,comment,URL_graphic
+2021-12-20T00:00:00+00:00,2023-06-09T04:00:00+00:00,gps_lon gps_lat gps_alt,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/50
+2011-05-26T00:00:00+00:00,2012-05-03T00:00:00+00:00,gps_lon gps_lat gps_alt,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/50
+2015-10-27T00:00:00+00:00,2016-04-09T00:00:00+00:00,gps_lon gps_lat gps_alt,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/50
+
