@@ -1,0 +1,6 @@
+t0,t1,variable,flag,comment,URL_graphic
+2008-10-15T00:00:00+00:00,2009-02-18T00:00:00+00:00,z_pt_cor,NAN,increasing noisy values manually flagged by bav,
+2010-10-19T00:00:00+00:00,2010-10-22T00:00:00+00:00,z_pt_cor,NAN,noisy values manually flagged by bav,
+2016-08-10T00:00:00+00:00,2017-05-20T00:00:00+00:00,z_pt_cor,NAN,noisy values manually flagged by bav,
+2020-08-29T12:00:00+00:00,2021-10-01T00:00:00+00:00,z_pt_cor,NAN,noisy values manually flagged by bav,
+2020-11-03T06:00:00+00:00,2021-04-01T00:00:00+00:00,z_stake, NAN,noisy values manually flagged by bav,
