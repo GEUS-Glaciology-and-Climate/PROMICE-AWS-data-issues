@@ -1,2 +1,2 @@
 t0, t1, variable, flag, comment, URL_graphic
-2023-05-27T00:00:00+00:00, ,rh_u t_u wspd_u wdir_u p_u rh_i t_i wspd_i wdir_i p_i dsr usr dlr ulr, NAN, station fallen (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/49
+2023-05-27T00:00:00+00:00, 2023-07-12T00:00:00+00:00,rh_u t_u wspd_u wdir_u p_u rh_i t_i wspd_i wdir_i p_i dsr usr dlr ulr, NAN, station fallen (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/49
