@@ -1,0 +1,11 @@
+t0,t1,variable,flag,comment,URL_graphic
+2010-06-22T00:00:00+00:00,2010-07-31T00:00:00+00:00,z_pt_cor,CHECKME,PT increasing height while sonice ranger indicate pursued ablation (bav),
+2011-10-02T00:00:00+00:00,2011-10-27T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2014-02-09T00:00:00+00:00,2014-04-10T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2016-09-21T00:00:00+00:00,2016-10-26T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2011-05-01T00:00:00+00:00,2011-06-11T00:00:00+00:00,z_boom_u,CHECKME,manually flagged by bav,
+2011-06-15T00:00:00+00:00,2011-08-24T00:00:00+00:00,z_stake,CHECKME,noisy while PT shows clear ablation (bav),
+2014-12-05T00:00:00+00:00,2015-04-06T00:00:00+00:00,z_stake,CHECKME,noisy while SR50 on station has good quality (bav),
+2020-11-03T00:00:00+00:00,2021-09-11T00:00:00+00:00,z_stake,CHECKME,noisy while SR50 on station has good quality (bav),
+2008-08-01T00:00:00+00:00,2009-01-01T00:00:00+00:00,t_i_.*($),NAN,manually flagged (bav),
+2012-08-01T00:00:00+00:00,2013-08-01T00:00:00+00:00,t_i_7,NAN,positive ice temperature (bav),
