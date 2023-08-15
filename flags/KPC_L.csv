@@ -1,0 +1,13 @@
+t0,t1,variable,flag,comment,URL_graphic
+2012-07-19T00:00:00+00:00,2012-07-30T00:00:00+00:00,z_boom_u,CHECKME,manually flagged by bav,
+2012-07-19T00:00:00+00:00,2012-07-21T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2019-08-25T12:00:00+00:00,2019-08-27T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2019-09-07T00:00:00+00:00,2019-09-11T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2019-09-15T00:00:00+00:00,2020-01-01T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2020-04-01T00:00:00+00:00,2020-06-01T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2021-04-01T00:00:00+00:00,2021-06-04T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2022-04-01T00:00:00+00:00,2022-06-04T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2009-08-20T00:00:00+00:00,2010-01-31T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
+2013-08-27T00:00:00+00:00,2016-06-28T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
+2014-07-20T00:00:00+00:00,2015-02-28T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
+2020-04-02T15:00:00+00:00,,z_stake,CHECKME,manually flagged by bav,
