@@ -1,0 +1,17 @@
+t0,t1,variable,flag,comment,URL_graphic
+
+2010-08-18T00:00:00+00:00,2011-04-21T00:00:00+00:00,z_stake,NAN,manually flagged by bav,
+2013-10-28T21:00:00+00:00,2013-10-01T00:00:00+00:00,z_stake,CHECKME,Manually flagged by bav,
+2011-11-13T21:00:00+00:00,2012-05-03T22:00:00+00:00,z_stake,CHECKME,Manually flagged by bav,
+2014-09-14T00:00:00+00:00,2015-06-19T00:00:00+00:00,z_stake,NAN,manually flagged by bav,
+2017-02-10T00:00:00+00:00,2017-02-16T00:00:00+00:00,z_stake,CHECKME,Manually flagged by bav,
+2016-07-16T00:00:00+00:00,2018-06-01T00:00:00+00:00,z_stake,NAN,manually flagged by bav,
+
+2014-12-06T20:00:00+00:00,2014-12-23T00:00:00+00:00,z_boom_u,CHECKME,Manually flagged by bav,
+2018-06-05T00:00:00+00:00,2018-06-09T20:00:00+00:00,z_boom_u,CHECKME,Only fragmented observations available while SR50 on stake shows clear accumulation (bav),
+
+2014-09-17T00:00:00+00:00,2015-07-19T00:00:00+00:00,z_pt_cor,NAN,showing height decrease at strange month or height increase (bav),
+
+,2010-05-21T00:00:00+00:00,t_i_.*($),CONFIRMED,no thermistor installed until 2010 (bav),
+# 2014-09-01T00:00:00+00:00,2015-08-30T00:00:00+00:00,t_i_.*($),NAN,surfaced thermistor (bav),
+2018-08-29T00:00:00+00:00,2022-08-21T00:00:00+00:00,t_i_.*($),NAN,manually flagged by bav,
