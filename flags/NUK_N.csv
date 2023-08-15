@@ -1,0 +1,8 @@
+t0,t1,variable,flag,comment,URL_graphic
+,2011-08-01T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
+,2011-04-01T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2011-10-01T00:00:00+00:00,2011-12-01T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2012-08-29T00:00:00+00:00,2013-07-21T15:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+2011-06-18T00:00:00+00:00,2012-08-31T00:00:00+00:00,t_i_1 t_i_2 t_i_3,CHECKME,manually flagged by bav,
+2011-08-01T00:00:00+00:00,2012-08-31T00:00:00+00:00,t_i_4 t_i_5,CHECKME,manually flagged by bav,
+2011-07-05T00:00:00+00:00,2012-08-31T00:00:00+00:00,t_i_7,CHECKME,manually flagged by bav,
