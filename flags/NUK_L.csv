@@ -5,7 +5,7 @@ t0, t1, variable, flag, comment, URL_graphic
 
 2010-09-22T00:00:00+00:00,2010-10-18T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
 2018-02-10T00:00:00+00:00,2018-07-16T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
-,2011-08-27T00:00:00+00:00,z_surf_1,CHECKME,manually flagged by bav,
+,2011-08-27T00:00:00+00:00,z_boom_u,CHECKME,manually flagged by bav,
 2013-01-24T00:00:00+00:00,2014-07-31T00:00:00+00:00,z_boom_u,CHECKME,manually flagged by bav,
 2018-07-16T00:00:00+00:00,2019-12-31T00:00:00+00:00,z_boom_u,CHECKME,manually flagged by bav,
 2010-07-24T00:00:00+00:00,2011-08-30T00:00:00+00:00,z_boom_u,CHECKME,manually flagged by bav,
