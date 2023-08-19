@@ -1,5 +1,5 @@
 t0,t1,variable,flag,comment,URL_graphic
 2015-04-01T00:00:00+00:00,2015-06-20T00:00:00+00:00,dsr usr dlr ulr,NAN,Manually flagged by bav,
-2015-10-17T00:00:00+00:00,2016-01-16T00:00:00+00:00,wspd_u wdir_u,NAN,Manually flagged by bav,
+2015-10-17T00:00:00+00:00,2016-01-16T00:00:00+00:00,wspd_u wdir_u,NAN,Manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/19
 2017-04-01T16:00:00+00:00,2017-05-10T00:00:00+00:00,dsr usr dlr ulr,CHECKME,Manually flagged by bav,
 2020-09-01T00:00:00+00:00,2021-07-01T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
