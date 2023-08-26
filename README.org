@@ -49,4 +49,4 @@ https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/Wi
   
 + Once an issue has been submitted, a PROMICE scientist will examine and add the https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/CONFIRMED label.
 
-+ If an issue can be solved, a solution will be added to the issue and the https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SOLUTION label will be added.
++ If an issue can be solved, a solution will be added to the issue and the https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SOLUTION label will be added, otherwise https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/NO_SOLUTION.
