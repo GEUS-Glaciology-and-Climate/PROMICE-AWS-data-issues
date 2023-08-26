@@ -28,11 +28,13 @@ https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/AL
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/EGP
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/KPC_Uv3
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/NUK_K
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/NUK_L
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_L 
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_U
 
 *** Sensor
 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/ALL_SENSOR
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/WindDirection
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/WindSpeed
 [[https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/SR50%20-%20boom]] 
