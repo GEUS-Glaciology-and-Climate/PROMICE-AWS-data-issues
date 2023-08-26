@@ -25,10 +25,17 @@ https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/20
 
 *** Station
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/ALL_STATION 
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/CEN
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/EGP
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/KAN_U
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/KPC_Uv3
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/NAE
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/NAU
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/NSE
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/NUK_K
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/NUK_L
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/Roof_GEUS
+https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/TAS_A
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_L 
 https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/labels/UPE_U
 
