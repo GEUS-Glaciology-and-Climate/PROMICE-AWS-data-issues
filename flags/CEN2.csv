@@ -1,3 +1,4 @@
 t0, t1, variable, flag, comment, URL_graphic
 , 2021-08-12T20:00:00+00:00, *, NAN, flagged by bav, logger file contains two rows that are test
 ,2022-06-19T00:00:00+00:00,t_i_.*($),CONFIRMED,thermistor string not drilled in in 2021 but done in 2022,
+2023-06-01T00:00:00+00:00,,t_i_.*($),CONFIRMED,give 0degC, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/69
