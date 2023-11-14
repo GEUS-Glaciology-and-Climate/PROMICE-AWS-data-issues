@@ -16,3 +16,7 @@ t0, t1, variable, flag, comment, URL_graphic
 2016-08-01T00:00:00+00:00,2017-04-26T00:00:00+00:00,z_stake,CHECKME,noisy and SR50 on station has better quality (bav),
 2017-11-24T00:00:00+00:00,2018-05-16T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
 2019-07-01T00:00:00+00:00,2019-09-18T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
+
+2018-01-26T02:00:00+00:00,2018-01-28T21:00:00+00:00,ulr,CHECKME,manually flagged by bav,
+2018-02-01T08:00:00+00:00,2018-02-02T20:00:00+00:00,ulr,CHECKME,manually flagged by bav,
+2018-02-03T14:00:00+00:00,2018-02-06T00:00:00+00:00,ulr,CHECKME,manually flagged by bav,
