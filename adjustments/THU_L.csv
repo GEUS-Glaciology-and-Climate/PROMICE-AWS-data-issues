@@ -1,0 +1,7 @@
+t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
+,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
+2014-09-13T00:00:00+00:00,,z_pt_cor,add,-3.1,manually adjusted by bav,
+2015-07-01T00:00:00+00:00,,z_pt_cor,add,-0.4,manually adjusted by bav,
+2021-09-05T00:00:00+00:00,,z_pt_cor,add,-16.0,manually adjusted by bav,
+2022-01-13T00:00:00+00:00,,z_pt_cor,add,-1.7,manually adjusted by bav,
+,,t_i_.*($),min_filter,-30.0,,
