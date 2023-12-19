@@ -12,3 +12,7 @@ t0, t1, variable, flag, comment, URL_graphic
 2022-09-01T00:00:00+00:00,2023-05-01T00:00:00+00:00,z_pt_cor,CONFIRMED,flagged by bav,
 2018-06-02T00:00:00+00:00,2018-09-08T00:00:00+00:00,t_i_.*($),CHECKME,manually flagged by bav,
 2020-01-01T00:00:00+00:00,2022-09-03T00:00:00+00:00,t_i_.*($),CHECKME,manually flagged by bav,
+
+2019-12-28T00:00:00+00:00,2020-08-18T00:00:00+00:00,wspd_u wdir_u,CHECKME,manually flagged by bav,
+
+
