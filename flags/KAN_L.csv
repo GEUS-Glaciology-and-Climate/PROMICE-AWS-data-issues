@@ -10,3 +10,5 @@ t0,t1,variable,flag,comment,URL_graphic
 2019-10-07T00:00:00+00:00,2019-10-27T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
 2021-09-18T00:00:00+00:00,2022-06-01T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
 2022-10-01T00:00:00+00:00,2022-11-01T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+
+2020-09-01T00:00:00+00:00,2022-09-01T00:00:00+00:00,rh_u,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/63
