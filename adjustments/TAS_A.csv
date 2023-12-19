@@ -3,3 +3,4 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2017-11-26T00:00:00+00:00,,z_pt_cor,add,-2.0,manually adjusted by bav,
 2019-05-05T00:00:00+00:00,,z_pt_cor,add,-0.28,manually adjusted by bav,
 2022-01-01T00:00:00+00:00,,z_pt_cor,add,0.6,manually adjusted by bav,
+,,t_i_.*($),min_filter,-20.0,,
