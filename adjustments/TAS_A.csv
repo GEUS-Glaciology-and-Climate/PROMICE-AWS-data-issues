@@ -4,3 +4,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2019-05-05T00:00:00+00:00,,z_pt_cor,add,-0.28,manually adjusted by bav,
 2022-01-01T00:00:00+00:00,,z_pt_cor,add,0.6,manually adjusted by bav,
 ,,t_i_.*($),min_filter,-20.0,,
+2014-02-05T00:00:00+00:00,2014-03-14T00:00:00+00:00,p_u,max_filter,905, filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/35
+2013-01-01T00:00:00+00:00,2016-01-01T00:00:00+00:00,z_stake,max_filter,2.26, filtered by bav, 
+2016-09-01T00:00:00+00:00,2021-07-01T00:00:00+00:00,z_stake,max_filter,2.37, filtered by bav, 

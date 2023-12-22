@@ -1,6 +1,6 @@
 t0, t1, variable, flag, comment, URL_graphic
-2017-08-11T00:00:00+00:00, 2018-09-01T00:00:00+00:00, rh_u t_u wspd_u wdir_u p_u rh_i t_i wspd_i wdir_i p_i dsr usr dlr ulr z_boom_u, NAN, station fallen (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/30
-2022-01-23T00:00:00+00:00, 2022-09-03T00:00:00+00:00, t_u t_i rh_u rh_i p_u p_i dsr usr dlr ulr wspd_u wspd_i wdir_u wdir_i z_boom_u, CONFIRMED, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/30
+2017-08-11T00:00:00+00:00, 2018-09-01T00:00:00+00:00, rh_u t_u wspd_u wdir_u p_u rh_i t_i wspd_i wdir_i p_i dsr usr dlr ulr z_boom_u, NAN, station fallen (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/137
+2022-01-23T00:00:00+00:00, 2022-09-03T00:00:00+00:00, t_u t_i rh_u rh_i p_u p_i dsr usr dlr ulr wspd_u wspd_i wdir_u wdir_i z_boom_u, CONFIRMED, station fallen (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/30
 
 2014-01-01T00:00:00+00:00,2014-05-07T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
 2016-08-10T00:00:00+00:00,2016-08-14T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
