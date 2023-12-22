@@ -1,4 +1,5 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
+,,wspd_u,max_filter,50, removing outlier (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/94
 ,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 2010-07-23T00:00:00+00:00,,z_pt_cor,add,-2.6,manually adjusted by bav,
 2010-07-24T00:00:00+00:00,,z_pt_cor,add,-7.8,manually adjusted by bav,

@@ -1,3 +1,4 @@
 t0,t1,variable,flag,comment,URL_graphic
+2020-12-18T00:00:00+00:00,2021-03-31T20:00:00+00:00,wspd_u,NAN, removed because zeroed (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/67
 2021-07-01T00:00:00+00:00,,t_i_.*($),NAN, thermistors removed after 2021 (bav),
 ,2017-07-27T00:00:00+00:00,t_i_.*($),NAN, unrealistic values (bav),
