@@ -7,3 +7,9 @@ t0,t1,variable,flag,comment,URL_graphic
 
 
 2015-02-04T00:00:00+00:00, 2015-08-23T12:00:00+00:00, rh_u t_u wspd_u wdir_u p_u rh_i t_i wspd_i wdir_i p_i dsr usr dlr ulr z_boom_u, NAN, station fallen (bav confirmed with field notes), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/44
+
+2021-01-01T00:00:00+00:00, 2021-06-21T00:00:00+00:00, rh_u t_u wspd_u wdir_u p_u rh_i t_i wspd_i wdir_i p_i dsr usr dlr ulr z_boom_u, NAN, station buried (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/103
+
+2019-03-28T00:00:00+00:00, 2019-05-16T00:00:00+00:00, rh_u t_u wspd_u wdir_u p_u rh_i t_i wspd_i wdir_i p_i dsr usr dlr ulr z_boom_u, NAN, station buried (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/103
+
+2018-10-03T00:00:00+00:00,2020-08-29T00:00:00+00:00,rh_u, NAN,noisy values manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/103
