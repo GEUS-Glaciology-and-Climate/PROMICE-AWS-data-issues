@@ -11,3 +11,4 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2011-10-01T00:00:00+00:00, 2012-06-01T00:00:00+00:00,z_stake,min_filter, 1.91,manually adjusted by bav,
 
 ,,t_i_.*($),min_filter,-30.0,,
+,,p_u,min_filter,750,,

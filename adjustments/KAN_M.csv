@@ -3,3 +3,4 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_u,min_filter,1, never seen more than 1.80 cm of snow at KAN_L (bav),
 2012-01-01T00:00:00+00:00,2016-01-01T00:00:00+00:00,rh_u,min_filter,40,,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/133
 ,,t_i_.*($),min_filter,-25,,
+,,p_u,max_filter,950,,

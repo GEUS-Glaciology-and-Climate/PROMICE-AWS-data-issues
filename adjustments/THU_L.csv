@@ -5,3 +5,4 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 # 2021-09-05T00:00:00+00:00,,z_pt_cor,add,-16.0,manually adjusted by bav,
 # 2022-01-13T00:00:00+00:00,,z_pt_cor,add,-1.7,manually adjusted by bav,
 ,,t_i_.*($),min_filter,-30.0,,
+,,p_u,max_filter,1000, ,
