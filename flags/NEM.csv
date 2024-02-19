@@ -1,8 +1,8 @@
-t0, t1, variable, flag, comment, URL_graphic
-2022-10-31T06:00:00+00:00, 2022-11-26T03:00:00+00:00, wspd_u wspd_l wspd_i, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/51
-2023-04-29T06:00:00+00:00, , wdir_l wdir_i, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/51
-2023-07-01T14:00:00+00:00, , t_i_.*($), CONFIRMED, constant ice temperature after that date (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/88
-, 2021-08-14T00:00:00+00:00, t_i_.*($), CONFIRMED, thermistors equilibriating after installation (bav), 
-2023-06-01T11:00:00+00:00, 2023-06-28T05:00:00+00:00, t_i_6, CONFIRMED, suspicious values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/88
-2023-10-03T02:00:00+00:00, , rh_u t_u p_u, CONFIRMED, suspicious values for all upper luft (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/87
+t0,t1,variable,flag,comment,URL_graphic
+2022-10-31T06:00:00+00:00,2022-11-26T03:00:00+00:00,wspd_u wspd_l wspd_i,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/51
+2023-04-29T06:00:00+00:00,,wdir_l wdir_i,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/51
+2023-07-01T14:00:00+00:00,,t_i_.*($),CONFIRMED,constant ice temperature after that date (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/88
+,2021-08-14T00:00:00+00:00,t_i_.*($),CONFIRMED,thermistors equilibriating after installation (bav),
+2023-06-01T11:00:00+00:00,2023-06-28T05:00:00+00:00,t_i_6,CONFIRMED,suspicious values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/88
+2023-10-03T02:00:00+00:00,,rh_u t_u p_u,CONFIRMED,suspicious values for all upper luft (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/87
 
