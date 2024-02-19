@@ -1,5 +1,5 @@
-t0, t1, variable, flag, comment, URL_graphic
-2022-03-26T06:00:00+00:00, 2022-10-20T03:00:00+00:00, p_u, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
-2023-01-03T06:00:00+00:00, 2023-01-13T22:00:00+00:00, p_u, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
-2023-01-18T01:00:00+00:00, 2023-01-22T13:00:00+00:00, p_u, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
-2022-03-26T06:00:00+00:00, 2022-10-20T03:00:00+00:00, rh_u, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
+t0,t1,variable,flag,comment,URL_graphic
+2022-03-26T06:00:00+00:00,2022-10-20T03:00:00+00:00,p_u,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
+2023-01-03T06:00:00+00:00,2023-01-13T22:00:00+00:00,p_u,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
+2023-01-18T01:00:00+00:00,2023-01-22T13:00:00+00:00,p_u,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
+2022-03-26T06:00:00+00:00,2022-10-20T03:00:00+00:00,rh_u,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24

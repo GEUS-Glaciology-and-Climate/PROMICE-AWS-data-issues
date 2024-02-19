@@ -1,9 +1,9 @@
-t0, t1, variable, flag, comment, URL_graphic
-2023-02-27T00:00:00+00:00, 2023-06-11T16:00:00+00:00,rh_l t_l p_l rh_i t_i p_i, NAN, lower level buired (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/48
-2022-11-07T00:00:00+00:00, 2023-06-11T16:00:00+00:00, wspd_l wdir_l wspd_i wdir_i, NAN, lower level buired (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/48
+t0,t1,variable,flag,comment,URL_graphic
+2023-02-27T00:00:00+00:00,2023-06-11T16:00:00+00:00,rh_l t_l p_l rh_i t_i p_i,NAN,lower level buired (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/48
+2022-11-07T00:00:00+00:00,2023-06-11T16:00:00+00:00,wspd_l wdir_l wspd_i wdir_i,NAN,lower level buired (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/48
 
-2021-12-07T00:00:00+00:00, 2022-04-13T12:00:00+00:00, wspd_l wdir_l wspd_i wdir_i, NAN, lower level buired (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/110
+2021-12-07T00:00:00+00:00,2022-04-13T12:00:00+00:00,wspd_l wdir_l wspd_i wdir_i,NAN,lower level buired (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/110
 
-2022-03-14T06:00:00+00:00, 2022-06-22T07:00:00+00:00,rh_u t_u p_u, NAN, upper luft not working (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/48
-2022-10-14T06:00:00+00:00, 2023-06-11T16:00:00+00:00,rh_u t_u p_u, NAN, upper luft not working (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/48
-2023-11-01T06:00:00+00:00, ,p_i p_l rh_i rh_l, NAN, lower luft not working (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/134
+2022-03-14T06:00:00+00:00,2022-06-22T07:00:00+00:00,rh_u t_u p_u,NAN,upper luft not working (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/48
+2022-10-14T06:00:00+00:00,2023-06-11T16:00:00+00:00,rh_u t_u p_u,NAN,upper luft not working (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/48
+2023-11-01T06:00:00+00:00,,p_i p_l rh_i rh_l,NAN,lower luft not working (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/134
