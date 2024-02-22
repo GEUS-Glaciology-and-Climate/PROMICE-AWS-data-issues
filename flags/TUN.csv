@@ -1,4 +1,4 @@
 t0,t1,variable,flag,comment,URL_graphic
 2023-10-26T00:00:00+00:00,,t_i_.*($),CHECKME,manually flagged by bav,
-2023-12-19T22:00:00+00:00,,p_i p_u p_l t_i t_u t_l th_i th_u th_l,NAN,Suspecious upper and lower luft (maclu),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
+2023-12-19T22:00:00+00:00,,p_i p_u p_l t_i t_u t_l rh_i rh_u rh_l,NAN,Suspecious upper and lower luft (maclu),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
 2023-04-04T00:00:00+00:00,2023-04-13T0000:00+00:00,p_i p_u p_l t_i t_u t_l th_i th_u th_l,NAN,Suspicious upper and lower luft (maclu),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
