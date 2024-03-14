@@ -4,8 +4,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 # 2021-01-01T00:00:00+00:00,,z_pt_cor,add,-6.0,manually adjusted by bav,
 # 2022-08-31T19:00:00+00:00,,z_pt_cor,add,-0.5,manually adjusted by bav,
 # 2021-09-02T00:00:00+00:00,,z_pt_cor,add,-3.0,manually adjusted by bav,
-# 2021-09-02T00:00:00+00:00,2022-10-24T00:00:00+00:00,z_boom_u,biweekly_upper_range_filter,0.5,manually adjusted by bav,
-# 2021-09-02T00:00:00+00:00,2023-02-24T00:00:00+00:00,z_stake,biweekly_upper_range_filter,0.5,manually adjusted by bav,
 2020-11-01T00:00:00+00:00,2021-07-01T00:00:00+00:00,z_stake,max_filter,2.0,manually filtered by bav,
 2020-07-01T00:00:00+00:00, 2020-08-12T00:00:00+00:00,z_pt_cor,min_filter,6.85,manually adjusted by bav,
 2020-08-12T00:00:00+00:00, 2020-08-17T00:00:00+00:00,z_pt_cor,min_filter,6.78,manually adjusted by bav,
@@ -13,3 +11,9 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,rh_i,min_filter,15,filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/103
 ,,rh_u,min_filter,15,filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/103
 ,,p_u,min_filter,827,filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/103
+2022-08-31T00:00:00+00:00,2023-09-01T00:00:00+00:00,z_stake,min_filter,3.5,manually adjusted by bav,
+2022-07-25T00:00:00+00:00,2022-08-31T00:00:00+00:00,z_stake,min_filter,3.8,manually adjusted by bav,
+2022-06-04T00:00:00+00:00,2022-09-01T00:00:00+00:00,z_stake,min_filter,2,manually adjusted by bav,
+2021-10-01T00:00:00+00:00,2022-01-18T20:00:00+00:00,z_stake,min_filter,2,manually adjusted by bav,
+2022-06-04T00:00:00+00:00,2022-09-01T00:00:00+00:00,z_boom_u,min_filter,2,manually adjusted by bav,
+2022-08-07T00:00:00+00:00,2023-01-07T00:00:00+00:00,z_stake,min_filter,4.21,manually adjusted by bav,
