@@ -11,3 +11,7 @@ t0,t1,variable,flag,comment,URL_graphic
 2013-08-27T00:00:00+00:00,2016-06-28T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
 2014-07-20T00:00:00+00:00,2015-02-28T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
 2020-04-02T15:00:00+00:00,,z_stake,CHECKME,manually flagged by bav,
+2010-01-09T00:00:00+00:00,2012-07-19T20:00:00+00:00,z_pt_cor,NAN,Manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/143
+2016-11-21T00:00:00+00:00,2019-07-09T20:00:00+00:00,z_stake,NAN,Manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/143
+2020-09-08T00:00:00+00:00,2021-06-05T00:00:00+00:00,z_pt_cor,NAN,Manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/143
+2022-06-01T00:00:00+00:00,2022-06-08T00:00:00+00:00,z_pt_cor,NAN,Manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/143

@@ -1,7 +1,11 @@
 t0,t1,variable,flag,comment,URL_graphic
+2022-02-01T00:00:00+00:00,2022-04-01T00:00:00+00:00,p_u,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
 2022-03-26T06:00:00+00:00,2022-10-20T03:00:00+00:00,p_u,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
 2023-01-03T06:00:00+00:00,2023-01-13T22:00:00+00:00,p_u,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
-2023-01-18T01:00:00+00:00,2023-01-22T13:00:00+00:00,p_u,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
-2022-03-26T06:00:00+00:00,2022-10-20T03:00:00+00:00,rh_u,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
+2023-01-12T12:00:00+00:00,2023-01-13T22:00:00+00:00,p_l p_i,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
+2023-01-18T01:00:00+00:00,2023-01-22T14:00:00+00:00,p_u p_l p_i,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
 2023-12-26T00:00:00+00:00,2024-01-03T03:00:00+00:00,p_i p_l,NAN,Manually flagged by maclu. Suspicious pressure data,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
+
+2022-03-26T06:00:00+00:00,2022-10-20T03:00:00+00:00,rh_u,NAN,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/24
+
 2023-11-27T00:00:00+00:00,,t_i_.*($),flat firn temperature reading (bav),
