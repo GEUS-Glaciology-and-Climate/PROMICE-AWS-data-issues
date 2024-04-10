@@ -12,3 +12,4 @@ t0,t1,variable,flag,comment,URL_graphic
 2021-10-23T13:00:00+00:00,2021-10-25T20:00:00+00:00,p_u,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
 2022-11-08T10:00:00+00:00,2022-11-10T12:00:00+00:00,p_l,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
 2023-10-18T18:00:00+00:00,2023-10-20T00:00:00+00:00,p_l,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
+2024-01-14T00:00:00+00:00,,wspd_l wspd_u wspd_i wdir_u wdir_l wdir_i,CONFIRMED, too much zero values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/145
