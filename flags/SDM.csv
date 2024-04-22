@@ -7,3 +7,4 @@ t0,t1,variable,flag,comment,URL_graphic
 2023-11-01T06:00:00+00:00,,p_i p_l rh_i rh_l,NAN,lower luft not working (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/134
 2023-10-31T20:00:00+00:00,,t_i_.*($),CONFIRMED,constant ice temperature after that date (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/144
 ,2023-04-01T00:00:00+00:00,t_i_3 t_i_4,CONFIRMED, too noisy (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/144
+2023-12-28T00:00:00+00:00,,wspd_l wspd_u wspd_i wdir_u wdir_l wdir_i,CONFIRMED, too much zero values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/145

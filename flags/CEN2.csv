@@ -2,3 +2,5 @@ t0,t1,variable,flag,comment,URL_graphic
 ,2022-06-19T00:00:00+00:00,t_i_.*($),CONFIRMED,thermistor string not drilled in in 2021 but done in 2022,
 2023-06-01T00:00:00+00:00,,t_i_.*($),CONFIRMED,give 0degC, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/69
 2023-12-24T17:00:00+00:00,,p_i p_u p_l,NAN,Manually flagged by maclu. Suspicious pressure data ,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
+2023-12-10T00:00:00+00:00,,wspd_l wspd_i wdir_l wdir_i,CONFIRMED, too much zero values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/145
+2024-02-19T00:00:00+00:00,,wspd_u wdir_u,CONFIRMED, too much zero values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/145
