@@ -9,3 +9,5 @@ t0,t1,variable,flag,comment,URL_graphic
 2010-11-01T00:00:00+00:00,2011-04-22T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
 ,2009-08-31T00:00:00+00:00,wspd_u,NAN,manually flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/100
 2022-09-01T00:00:00+00:00,,t_i_8,CHECKME,manually flagged (bav),
+
+2019-08-28T00:00:00+00:00,2019-12-11T00:00:00+00:00,gps_lat gps_lon,NAN,manually flagged (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/151
