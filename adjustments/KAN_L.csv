@@ -1,14 +1,6 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 ,,z_boom_u,min_filter,2, never seen more than 80 cm of snow at KAN_L (bav),
-# 2010-10-07T00:00:00+00:00,,z_pt_cor,add,-0.1,manually adjusted by bav,
-# 2011-06-04T00:00:00+00:00,,z_pt_cor,add,-4.0,manually adjusted by bav,
-# 2012-08-21T00:00:00+00:00,,z_pt_cor,add,-11.7,manually adjusted by bav,
-# 2014-05-13T00:00:00+00:00,,z_pt_cor,add,0.07,manually adjusted by bav,
-# 2015-04-29T00:00:00+00:00,,z_pt_cor,add,-7.08,manually adjusted by bav,
-# 2015-07-07T00:00:00+00:00,,z_pt_cor,add,-0.4,manually adjusted by bav,
-# 2016-07-16T00:00:00+00:00,,z_pt_cor,add,-1.6,manually adjusted by bav,
-# 2017-09-01T00:00:00+00:00,,z_pt_cor,add,-3.5,manually adjusted by bav,
-# 2018-08-29T00:00:00+00:00,,z_pt_cor,add,-11.3,manually adjusted by bav,
-# 2021-08-17T00:00:00+00:00,,z_pt_cor,add,-13.0,manually adjusted by bav,
-# 2022-05-15T13:00:00+00:00,,z_pt_cor,add,2.9,manually adjusted by bav,
+
+,,gps_alt,min_filter,600, removing noise (bav),
+

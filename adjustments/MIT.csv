@@ -7,6 +7,7 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 # 2018-07-01T00:00:00+00:00,,z_pt_cor,add,-2.0,manually adjusted by bav,
 # 2019-01-12T00:00:00+00:00,,z_pt_cor,add,-2.0,manually adjusted by bav,
 ,,t_i_.*($),min_filter,-20.0,,
-,,gps_lat,max_filter,66,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
-,,gps_lon,max_filter,50,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
+,,gps_lat,max_filter,65.69,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
+,2016-01-01T00:00:00+00:00,gps_lon,max_filter,37.828,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
 ,,gps_alt,min_filter,300,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
+,,gps_alt,max_filter,500,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
