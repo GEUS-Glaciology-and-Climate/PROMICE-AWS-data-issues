@@ -4,3 +4,5 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2012-01-01T00:00:00+00:00,2016-01-01T00:00:00+00:00,rh_u,min_filter,40,,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/133
 ,,t_i_.*($),min_filter,-25,,
 ,,p_u,max_filter,950,,
+,,gps_lat,min_filter,67.065, removing noise (bav),
+,,gps_alt,min_filter,1200, removing noise (bav),

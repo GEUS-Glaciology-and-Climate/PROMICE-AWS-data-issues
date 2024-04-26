@@ -1,3 +1,9 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 ,,t_i_.*($),min_filter,-30.0,,
+,,gps_alt,min_filter,800, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
+,,gps_alt,max_filter,1000, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
+2013-10-01T00:00:00+00:00,2020-10-01T00:00:00+00:00,gps_lat,min_filter,79.833, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
+,2020-10-01T00:00:00+00:00,gps_lat,max_filter,79.836, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
+,2020-10-01T00:00:00+00:00,gps_lon,min_filter,25.16, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
+,,gps_lon,max_filter,25.178, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
