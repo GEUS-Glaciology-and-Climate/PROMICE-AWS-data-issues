@@ -12,3 +12,7 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,t_i_.*($),min_filter,-20.0,,
 ,,p_u,min_filter,900,filtered by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/37
 ,,p_u,max_filter,1028,filtered by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/37
+,,gps_alt,min_filter,100,,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/158
+,,gps_alt,max_filter,400,,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/158
+,,gps_lat,min_filter,65.2,,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/158
+,,gps_lon,min_filter,38.2,,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/158
