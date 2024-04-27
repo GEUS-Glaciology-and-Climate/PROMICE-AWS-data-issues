@@ -3,3 +3,10 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 # 2013-01-01T00:00:00+00:00,,z_pt_cor,add,-8.5,manually adjusted by bav,
 # 2013-10-11T12:00:00+00:00,,z_pt_cor,add,1.0,manually adjusted by bav,
 ,,t_i_.*($),min_filter,-30.0,,
+,,gps_alt,min_filter,885, removing noise (bav),
+,,gps_lon,max_filter,49.886, removing noise (bav),
+,,gps_lon,min_filter,49.8835, removing noise (bav),
+,,gps_lat,max_filter,64.946, removing noise (bav),
+,,gps_lat,min_filter,64.945, removing noise (bav),
+
+
