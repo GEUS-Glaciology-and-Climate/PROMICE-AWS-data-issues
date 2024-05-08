@@ -19,7 +19,7 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2022-08-07T00:00:00+00:00,2023-01-07T00:00:00+00:00,z_stake,min_filter,4.21,manually adjusted by bav,
 ,,gps_alt,min_filter,800, removing noise (bav),
 ,2013-01-01T00:00:00+00:00,gps_lat,max_filter,61.180, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/155
-,2013-01-01T00:00:00+00:00,gps_lat,min_filter,61.177, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/155
+,2022-01-01T00:00:00+00:00,gps_lat,min_filter,61.17, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/155
 ,2014-01-01T00:00:00+00:00,gps_lon,max_filter,46.82, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/155
-,2014-01-01T00:00:00+00:00,gps_lon,min_filter,46.815, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/155
+2019-01-01T00:00:00+00:00,2022-01-01T00:00:00+00:00,gps_lon,min_filter,46.82, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/155
 ,2022-01-01T00:00:00+00:00,gps_lat,min_filter,61.170, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/155
