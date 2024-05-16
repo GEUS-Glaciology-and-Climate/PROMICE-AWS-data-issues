@@ -1,3 +1,4 @@
 t0,t1,variable,flag,comment,URL_graphic
 2016-05-05T00:00:00+00:00,2016-05-21T00:00:00+00:00,t_i_.*($),NAN,string only drilled in on 21st May (bav),
 2020-01-01T00:00:00+00:00,,z_stake,NAN,manually flagged by bav,
+2022-01-01T00:00:00+00:00,2023-06-22T00:00:00+00:00,dsr usr dsr_cor usr_cor,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/72
