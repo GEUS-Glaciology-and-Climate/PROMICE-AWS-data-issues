@@ -4,7 +4,11 @@ t0,t1,variable,flag,comment,URL_graphic
 2021-12-07T00:00:00+00:00,2022-04-13T12:00:00+00:00,wspd_l wdir_l wspd_i wdir_i,NAN,lower level buired (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/110
 2022-03-14T06:00:00+00:00,2022-06-22T07:00:00+00:00,rh_u t_u p_u,NAN,upper luft not working (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/48
 2022-10-14T06:00:00+00:00,2023-06-11T16:00:00+00:00,rh_u t_u p_u,NAN,upper luft not working (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/48
-2023-11-01T06:00:00+00:00,,p_i p_l rh_i rh_l,NAN,lower luft not working (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/134
-2023-10-31T20:00:00+00:00,,t_i_.*($),CONFIRMED,constant ice temperature after that date (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/144
+2023-11-01T06:00:00+00:00,2024-05-23T17:00:00+00:00,p_i p_l rh_i rh_l,NAN,lower luft not working (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/134
+
+2021-06-01T00:00:00+00:00,2021-06-23T04:00:00+00:00,t_i_.*($),CONFIRMED,instrument settling (bav),
+2021-08-16T00:00:00+00:00,2021-08-22T04:00:00+00:00,t_i_.*($),CONFIRMED,infiltration along string (bav),
+2023-10-31T20:00:00+00:00,2024-05-24T04:00:00+00:00,t_i_.*($),CONFIRMED,constant ice temperature after that date (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/144
 ,2023-04-01T00:00:00+00:00,t_i_3 t_i_4,CONFIRMED, too noisy (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/144
-2023-12-28T00:00:00+00:00,,wspd_l wspd_u wspd_i wdir_u wdir_l wdir_i,CONFIRMED, too much zero values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/145
+
+2023-12-28T00:00:00+00:00,2024-05-23T17:00:00+00:00,wspd_l wspd_u wspd_i wdir_u wdir_l wdir_i,CONFIRMED, too much zero values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/145
