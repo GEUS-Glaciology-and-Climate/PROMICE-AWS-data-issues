@@ -1,3 +1,5 @@
 t0, t1, variable, adjust_function, adjust_value, comment, URL_graphic
 2056-01-01T00:00:00+00:00, , *, time_shift, -12361.479166666666, manually adjusted by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/22
 ,,t_i_.*($),min_filter,-30.0,,
+
+,2022-05-22T00:00:00+00:00,z_surf_2,min_filter,0.36,flagged by bav,

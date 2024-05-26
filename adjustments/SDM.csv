@@ -1,3 +1,5 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,t_i_.*($),min_filter,-30.0,outlier removal (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/144
 
+2023-06-01T00:00:00+00:00,,z_surf_1,add,3,,
+2023-06-01T00:00:00+00:00,,z_surf_2,add,3,,

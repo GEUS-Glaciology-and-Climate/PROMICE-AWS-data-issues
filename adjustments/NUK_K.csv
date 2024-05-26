@@ -1,10 +1,6 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
-# 2014-08-12T00:00:00+00:00,,z_pt_cor,add,1.25,manually adjusted by bav,
-# 2014-08-28T00:00:00+00:00,,z_pt_cor,add,-1.25,manually adjusted by bav,
-# 2018-06-26T00:00:00+00:00,,z_pt_cor,add,0.07,manually adjusted by bav,
-# 2019-08-17T00:00:00+00:00,,z_pt_cor,add,1.0,manually adjusted by bav,
-# 2019-09-12T00:00:00+00:00,,z_pt_cor,add,-1.0,manually adjusted by bav,
+
 ,,t_i_.*($),min_filter,-20.0,,
 ,,gps_alt,max_filter,750, removing noise (bav),
 ,,gps_alt,min_filter,667, removing noise (bav),
@@ -12,3 +8,10 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,gps_lon,max_filter,51.36, removing noise (bav),
 ,,gps_lat,max_filter,64.1625, removing noise (bav),
 ,,gps_lat,min_filter,64.1621, removing noise (bav),
+
+2014-08-12T00:00:00+00:00,,z_ice_surf,add,1.25,manually adjusted by bav,
+2014-08-28T00:00:00+00:00,,z_ice_surf,add,-1.25,manually adjusted by bav,
+2018-06-26T00:00:00+00:00,,z_ice_surf,add,0.07,manually adjusted by bav,
+2019-08-17T00:00:00+00:00,,z_ice_surf,add,1.0,manually adjusted by bav,
+2019-09-12T00:00:00+00:00,,z_ice_surf,add,-1.0,manually adjusted by bav,
+2017-07-04T00:00:00+00:00,,z_surf_1,add,-0.7,manually adjusted by bav,

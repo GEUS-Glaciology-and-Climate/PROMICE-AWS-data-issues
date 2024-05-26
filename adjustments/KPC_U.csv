@@ -1,9 +1,17 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 ,,t_i_.*($),min_filter,-30.0,,
+
 ,,gps_alt,min_filter,800, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
 ,,gps_alt,max_filter,1000, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
 2013-10-01T00:00:00+00:00,2020-10-01T00:00:00+00:00,gps_lat,min_filter,79.833, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
 ,2020-10-01T00:00:00+00:00,gps_lat,max_filter,79.836, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
 ,2020-10-01T00:00:00+00:00,gps_lon,min_filter,25.16, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
 ,,gps_lon,max_filter,25.178, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
+
+2007-07-23T00:00:00+00:00,2021-07-23T00:00:00+00:00,z_surf_2,min_filter,-1.5,manually adjusted by bav,
+2012-07-21T00:00:00+00:00,,z_surf_1,add,0.3,manually adjusted by bav,
+2012-07-23T00:00:00+00:00,,z_surf_2,add,-0.2,manually adjusted by bav,
+2019-06-24T00:00:00+00:00,,z_surf_1,add,-0.1,manually adjusted by bav,
+2019-07-03T00:00:00+00:00,,z_surf_1,add,-0.65,manually adjusted by bav,
+2019-07-13T12:00:00+00:00,,z_surf_1,add,1.75,manually adjusted by bav,

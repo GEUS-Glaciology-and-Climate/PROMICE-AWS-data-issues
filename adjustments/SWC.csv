@@ -2,3 +2,4 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 , 2022-08-02T23:00:00, wdir_u, rotate, -150 , , https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/17
 ,,p_u,max_filter,925, ,
+,,z_pt_cor,min_filter,13.3,,

@@ -3,3 +3,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,2023-04-01T00:00:00+00:00,z_boom_u,max_filter,4.3,manually adjusted by bav,
 ,2023-04-01T00:00:00+00:00,z_boom_l,min_filter,1.0,manually adjusted by bav,
 ,2023-04-01T00:00:00+00:00,z_boom_l,max_filter,3.0,manually adjusted by bav,
+
+2023-06-19T00:00:00+00:00,,z_surf_1,add,1.6,manually adjusted by bav,
+2023-06-19T00:00:00+00:00,,z_surf_2,add,1.55,manually adjusted by bav,

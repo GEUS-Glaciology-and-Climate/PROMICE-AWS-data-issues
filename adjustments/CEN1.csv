@@ -4,3 +4,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2019-10-24T14:00:00+00:00,2020-03-28T14:00:00+00:00,z_stake,min_filter,1.81,manually adjusted by bav,
 2017-07-01T00:00:00+00:00,2017-08-15T00:00:00+00:00,z_stake,min_filter,2.56,manually adjusted by bav,
 ,,z_stake,max_filter,3,manually adjusted by bav,
+
+2019-05-16T14:00:00+00:00,,z_surf_1,add,1.4,manually adjusted by bav,
+2019-05-16T00:00:00+00:00,,z_surf_2,add,1.45,manually adjusted by bav,
