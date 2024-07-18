@@ -5,6 +5,8 @@ t0,t1,variable,flag,comment,URL_graphic
 2020-08-29T12:00:00+00:00,2021-10-01T00:00:00+00:00,z_pt_cor,NAN,noisy values manually flagged by bav,
 2020-11-03T06:00:00+00:00,2021-04-01T00:00:00+00:00,z_stake, NAN,noisy values manually flagged by bav,
 2021-09-02T00:00:00+00:00,2021-11-24T00:00:00+00:00,z_stake, NAN,noisy values manually flagged by bav,
+2015-12-12T00:00:00+00:00,2016-06-05T00:00:00+00:00,z_stake, NAN,noisy values manually flagged by bav,
+2017-09-22T00:00:00+00:00,2018-05-08T00:00:00+00:00,z_stake, NAN,noisy values manually flagged by bav,
 
 
 2015-02-04T00:00:00+00:00, 2015-08-23T12:00:00+00:00, rh_u t_u wspd_u wdir_u p_u rh_i t_i wspd_i wdir_i p_i dsr usr dlr ulr z_boom_u, NAN, station fallen (bav confirmed with field notes), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/44
