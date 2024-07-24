@@ -1,2 +1,4 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
+
+2022-07-02T13:00:00+00:00,,z_ice_surf,add,0.2,manually adjusted by bav,

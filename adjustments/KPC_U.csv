@@ -1,5 +1,6 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
+,,z_stake,max_filter,2, ,
 ,,t_i_.*($),min_filter,-30.0,,
 
 ,,gps_alt,min_filter,800, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/153
