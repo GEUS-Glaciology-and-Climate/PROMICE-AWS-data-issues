@@ -14,4 +14,16 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2018-06-26T00:00:00+00:00,,z_ice_surf,add,0.07,manually adjusted by bav,
 2019-08-17T00:00:00+00:00,,z_ice_surf,add,1.0,manually adjusted by bav,
 2019-09-12T00:00:00+00:00,,z_ice_surf,add,-1.0,manually adjusted by bav,
+2020-08-21T00:00:00+00:00,,z_ice_surf,add,-7.9,manually adjusted by bav,
+2020-08-28T18:00:00+00:00,,z_ice_surf,add,-0.22,manually adjusted by bav,
+2023-05-31T00:00:00+00:00,,z_ice_surf,add,-17,manually adjusted by bav,
+
+2023-09-21T00:00:00+00:00,,z_surf_2,add,-3,manually adjusted by bav,
+
 2017-07-04T00:00:00+00:00,,z_surf_1,add,-0.7,manually adjusted by bav,
+
+2022-09-01T00:00:00+00:00,2022-10-01T00:00:00+00:00,z_stake,max_filter,3,
+2022-06-01T00:00:00+00:00,2022-09-05T00:00:00+00:00,z_boom_u,min_filter,2.55,
+2022-09-05T00:00:00+00:00,2022-12-31T00:00:00+00:00,z_boom_u,min_filter,1.5,
+2016-10-01T00:00:00+00:00,2016-10-19T00:00:00+00:00,z_boom_u,min_filter,1.9,
+2016-10-01T00:00:00+00:00,2016-10-19T00:00:00+00:00,z_stake,min_filter,1.9,
