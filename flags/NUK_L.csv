@@ -11,6 +11,7 @@ t0, t1, variable, flag, comment, URL_graphic
 
 2010-07-20T00:00:00+00:00,2010-10-18T17:00:00+00:00,z_boom_u,NAN,Manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/143
 ,2011-08-27T00:00:00+00:00,z_boom_u,CHECKME,manually flagged by bav,
+
 2013-01-24T00:00:00+00:00,2014-07-31T00:00:00+00:00,z_boom_u,CHECKME,manually flagged by bav,
 2018-07-16T00:00:00+00:00,2019-12-31T00:00:00+00:00,z_boom_u,CHECKME,manually flagged by bav,
 2010-07-24T00:00:00+00:00,2011-08-30T00:00:00+00:00,z_boom_u,CHECKME,manually flagged by bav,
@@ -22,6 +23,7 @@ t0, t1, variable, flag, comment, URL_graphic
 2016-08-01T00:00:00+00:00,2017-04-26T00:00:00+00:00,z_stake,CHECKME,noisy and SR50 on station has better quality (bav),
 2017-11-24T00:00:00+00:00,2018-05-16T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
 2019-07-01T00:00:00+00:00,2019-09-18T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
+2023-08-12T00:00:00+00:00,2023-09-19T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
 
 2018-01-26T02:00:00+00:00,2018-01-28T21:00:00+00:00,ulr,CHECKME,manually flagged by bav,
 2018-02-01T08:00:00+00:00,2018-02-02T20:00:00+00:00,ulr,CHECKME,manually flagged by bav,

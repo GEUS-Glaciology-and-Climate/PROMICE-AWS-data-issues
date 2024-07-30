@@ -9,6 +9,7 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,gps_lat,min_filter,64.945, removing noise (bav),
 
 
+2011-08-23T00:00:00+00:00,,z_ice_surf,add,-0.5,manually adjusted by bav,
 2013-01-01T00:00:00+00:00,,z_ice_surf,add,-8.5,manually adjusted by bav,
 2013-10-11T12:00:00+00:00,,z_ice_surf,add,1.0,manually adjusted by bav,
 2012-08-28T00:00:00+00:00,,z_surf_2,add,-5.0,manually adjusted by bav,

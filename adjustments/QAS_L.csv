@@ -32,9 +32,12 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2020-07-01T00:00:00+00:00,,z_ice_surf,add,-9.5,manually adjusted by bav,
 2021-09-02T00:00:00+00:00,,z_ice_surf,add,-8.7,manually adjusted by bav,
 2022-08-29T14:00:00+00:00,,z_ice_surf,add,-5.7,manually adjusted by bav,
+
 2010-07-19T00:00:00+00:00,,z_surf_2,add,-3.5,manually adjusted by bav,
 2012-08-17T00:00:00+00:00,,z_surf_2,add,-4.0,manually adjusted by bav,
 2014-08-23T00:00:00+00:00,,z_surf_2,add,-3.5,manually adjusted by bav,
-2015-08-23T00:00:00+00:00,,z_surf_2,add,-2.5,manually adjusted by bav,
-2019-08-28T00:00:00+00:00,,z_surf_2,add,-2.0,manually adjusted by bav,
+2015-08-23T00:00:00+00:00,,z_surf_2,add,-5.5,manually adjusted by bav,
+2019-08-29T12:00:00+00:00,,z_surf_2,add,-2.0,manually adjusted by bav,
 2022-08-29T14:00:00+00:00,,z_surf_2,add,-6.0,manually adjusted by bav,
+
+2018-03-01T00:00:00+00:00,,z_surf_1,add,-6.0,manually adjusted by bav,
