@@ -4,10 +4,12 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,t_i_.*($),min_filter,-30.0,,
 2022-10-06T00:00:00+00:00,,t_i_8,min_filter,-9.0,,
 
-2014-08-10T00:00:00+00:00,,z_ice_surf,add,-14.79,manually adjusted by bav,
+2014-08-10T00:00:00+00:00,,z_ice_surf,add,-15.79,manually adjusted by bav,
 2017-08-07T00:00:00+00:00,,z_ice_surf,add,-9.88,manually adjusted by bav,
 2020-07-26T10:00:00+00:00,,z_ice_surf,add,-9.0,manually adjusted by bav,
+
 2010-07-19T00:00:00+00:00,,z_surf_2,add,-3.0,manually adjusted by bav,
 2012-08-12T00:00:00+00:00,,z_surf_2,add,-5.0,manually adjusted by bav,
 2013-09-22T07:00:00+00:00,,z_surf_2,add,-4.0,manually adjusted by bav,
+2014-08-10T00:00:00+00:00,,z_surf_2,add,-0.15,manually adjusted by bav,
 2019-08-13T00:00:00+00:00,,z_surf_2,add,-7.0,manually adjusted by bav,
