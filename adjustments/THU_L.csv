@@ -8,5 +8,7 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2015-07-01T00:00:00+00:00,,z_ice_surf,add,-0.4,manually adjusted by bav,
 2021-09-05T00:00:00+00:00,,z_ice_surf,add,-16.0,manually adjusted by bav,
 2022-01-13T00:00:00+00:00,,z_ice_surf,add,-1.7,manually adjusted by bav,
+
 2022-05-08T00:00:00+00:00,,z_surf_2,add,-1.9,manually adjusted by bav,
 2023-06-01T00:00:00+00:00,,z_surf_2,add,-1.7,manually adjusted by bav,
+2024-05-10T19:00:00+00:00,,z_surf_2,add,-1.55,manually adjusted by bav,

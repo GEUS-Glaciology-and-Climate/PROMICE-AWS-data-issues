@@ -6,5 +6,9 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,gps_lat,max_filter,76.42, manually filtered by bav, 
 
 2014-09-15T12:00:00+00:00,,z_ice_surf,add,0.9,manually adjusted by bav,
-2016-07-21T12:00:00+00:00,,z_ice_surf,add,2.5,manually adjusted by bav,
-2022-01-01T12:00:00+00:00,,z_ice_surf,add,-6.8,manually adjusted by bav,
+2016-07-21T12:00:00+00:00,,z_ice_surf,add,2.3,manually adjusted by bav,
+2021-09-13T10:00:00+00:00,2021-09-14T12:00:00+00:00,z_ice_surf,add,-3,manually adjusted by bav,
+2021-09-14T12:00:00+00:00,,z_ice_surf,add,5.7,manually adjusted by bav,
+
+2016-07-21T12:00:00+00:00,,z_surf_2,add,-0.4,manually adjusted by bav,
+2019-05-03T12:00:00+00:00,,z_surf_2,add,0.4,manually adjusted by bav,
