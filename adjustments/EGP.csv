@@ -6,6 +6,8 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2020-09-01T00:00:00+00:00,2021-03-06T00:00:00+00:00,z_boom_u,max_filter,1.93,manually adjusted by bav,
 2021-03-06T00:00:00+00:00,2021-04-26T00:00:00+00:00,z_boom_u,max_filter,1.7,manually adjusted by bav,
 
+,2016-06-15T00:00:00+00:00,z_boom_u,min_filter,2.575,manually adjusted by bav,
+
 2017-05-18T00:00:00+00:00,,z_surf_1,add,0.5,manually adjusted by bav,
 2018-05-30T00:00:00+00:00,,z_surf_1,add,0.6,manually adjusted by bav,
 2019-05-31T00:00:00+00:00,,z_surf_1,add,0.4,manually adjusted by bav,
