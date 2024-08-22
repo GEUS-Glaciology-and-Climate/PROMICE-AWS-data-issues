@@ -22,6 +22,7 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2019-01-01T00:00:00+00:00,2022-01-01T00:00:00+00:00,gps_lon,min_filter,46.82, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/155
 ,2022-01-01T00:00:00+00:00,gps_lat,min_filter,61.170, removing noise (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/155
 
+2010-07-19T00:00:00+00:00,,z_ice_surf,add,1.0,manually adjusted by bav,
 2018-09-02T00:00:00+00:00,,z_ice_surf,add,-0.3,manually adjusted by bav,
 2021-01-01T00:00:00+00:00,,z_ice_surf,add,-6.0,manually adjusted by bav,
 2022-08-31T19:00:00+00:00,,z_ice_surf,add,-0.5,manually adjusted by bav,
@@ -29,6 +30,7 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 # 2021-09-02T00:00:00+00:00,2022-10-24T00:00:00+00:00,z_boom_u,biweekly_upper_range_filter,0.5,manually adjusted by bav,
 # 2021-09-02T00:00:00+00:00,2023-02-24T00:00:00+00:00,z_stake,biweekly_upper_range_filter,0.5,manually adjusted by bav,
 2020-11-01T00:00:00+00:00,2021-07-01T00:00:00+00:00,z_stake,max_filter,2.0,manually filtered by bav,
+
 2010-07-19T00:00:00+00:00,,z_surf_2,add,-2.0,manually adjusted by bav,
 2011-08-15T00:00:00+00:00,,z_surf_2,add,-2.0,manually adjusted by bav,
 2013-08-18T00:00:00+00:00,,z_surf_2,add,-0.5,manually adjusted by bav,
