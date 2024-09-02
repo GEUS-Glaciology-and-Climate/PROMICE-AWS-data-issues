@@ -1,5 +1,5 @@
 t0,t1,variable,flag,comment,URL_graphic
-, ,z_pt_cor,NAN, instrument not working(bav),
+, 2024-06-01,z_pt_cor,NAN, instrument not working(bav),
 ,2022-09-05T00:00:00+00:00, t_i_.*($), CONFIRMED, instrument not working (bav),
 2022-11-30T00:00:00+00:00, 2023-09-04T14:00:00+00:00, t_i_.*($), CONFIRMED, instrument not working (bav),
 2024-04-26T00:00:00+00:00, 2024-08-27T14:00:00+00:00, t_i_.*($), CONFIRMED, instrument not working (bav),
