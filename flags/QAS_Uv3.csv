@@ -2,9 +2,10 @@ t0,t1,variable,flag,comment,URL_graphic
 , ,z_pt_cor,NAN, instrument not working(bav),
 ,2022-09-05T00:00:00+00:00, t_i_.*($), CONFIRMED, instrument not working (bav),
 2022-11-30T00:00:00+00:00, 2023-09-04T14:00:00+00:00, t_i_.*($), CONFIRMED, instrument not working (bav),
-2021-01-01T00:00:00+00:00, 2021-05-01T00:00:00+00:00, rh_u t_u wspd_u wdir_u p_u rh_i t_i wspd_i wdir_i p_i dsr usr dlr ulr z_boom_u, NAN, station buried,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/105
+2024-04-26T00:00:00+00:00, 2024-08-27T14:00:00+00:00, t_i_.*($), CONFIRMED, instrument not working (bav),
+2021-01-01T00:00:00+00:00, 2021-05-01T00:00:00+00:00, rh_u t_u wspd_u wdir_u p_u rh_i t_i wspd_i wdir_i p_i dsr usr dlr ulr z_boom_u t_rad, NAN, station buried,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/105
 2021-08-31T00:00:00+00:00,2021-09-03T00:00:00+00:00,z_stake,NAN,,
 
-2022-01-28T00:00:00+00:00, 2022-05-01T00:00:00+00:00, dlr ulr usr dsr usr_cor dsr_cor, CONFIRMED, radiometer buried ? (bav),
+2022-01-28T00:00:00+00:00, 2022-05-01T00:00:00+00:00, dlr ulr usr dsr usr_cor dsr_cor t_rad, CONFIRMED, radiometer buried ? (bav),
 
-2024-03-15T15:00:00+00:00, , ulr dlr t_rad, CONFIRMED, t_rad not working (bav),
+2024-03-15T15:00:00+00:00, 2024-09-01T15:00:00+00:00, ulr dlr t_rad, CONFIRMED, t_rad not working (bav),
