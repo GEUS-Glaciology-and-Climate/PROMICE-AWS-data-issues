@@ -3,10 +3,14 @@ name: Validate CSV Files
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
+    types:
+      - opened   # Trigger when a PR is opened
+      - synchronize  # Trigger when new commits are pushed to the PR
+      - reopened  # Trigger if the PR is reopened
     branches:
-      - main
+      - master
 
 jobs:
   validate:

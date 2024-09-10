@@ -1,6 +1,7 @@
 import os
 import re
 import pandas as pd
+from sys import exit 
 
 # Define the ISO 8601 timestamp regex
 iso_regex = r"^\s*$|^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\+\d{2}:\d{2}$"
@@ -12,7 +13,7 @@ def is_iso8601(timestamp):
 def validate_csv(file_path):
     """Check if the CSV file has correct format"""
     try:
-        df = pd.read_csv(file_path)
+        df = pd.read_csv(file_path, skipinitialspace=True, comment="#")
     except Exception as e:
         return False, f"Error reading CSV file: {e}"
 
@@ -22,9 +23,10 @@ def validate_csv(file_path):
 
     # Validate t0 and t1 columns for correct format
     for index, row in df.iterrows():
-        if not is_iso8601(str(row['t0'])) or not is_iso8601(str(row['t1'])):
-            return False, f"Invalid t0/t1 timestamp format in file {file_path} at row {index + 1}"
-
+        if str(row['t0']).strip() not in ['', 'nan'] and not is_iso8601(str(row['t0'])):
+            return False, f"Invalid t0 timestamp format in file {file_path} at row {index + 1}"
+        if str(row['t1']).strip() not in ['', 'nan'] and not is_iso8601(str(row['t1'])):
+            return False, f"Invalid t1 timestamp format in file {file_path} at row {index + 1}"
     return True, "Valid CSV file."
 
 def validate_folder(folder_path):
