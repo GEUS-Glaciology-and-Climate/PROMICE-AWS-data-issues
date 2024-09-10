@@ -1,4 +1,5 @@
 t0,t1,variable,flag,comment,URL_graphic
-, , t_i_.*($), CONFIRMED, positive ice temperature from begininng (bav),
+, 2024-09-01T12:00:00+00:00, t_i_.*($), CONFIRMED, positive ice temperature from begininng (bav),
 
 2023-08-28T00:00:00+00:00,2023-09-01T14:00:00+00:00,z_stake,, ,
+,, z_pt_cor, CONFIRMED, too noisy (bav),
