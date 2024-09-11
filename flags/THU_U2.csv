@@ -1,6 +1,7 @@
 t0,t1,variable,flag,comment,URL_graphic
-2018-01-01T00:00:00+00:00,2023-05-01T00:00:00+00:00,z_pt_cor,NAN,very unlikely values (bav),
+,,z_pt_cor,NAN,very unlikely values (bav),
 
 2018-08-19T00:00:00+00:00,2019-07-02T00:00:00+00:00,z_stake,NAN,very unlikely values (bav),
 
 2023-07-21T18:00:00+00:00, , t_i_.*($), NAN, constant ice temperature after that date (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/121
+2023-07-25T07:00:00+00:00, , p_i p_u, NAN, very unlikely values (bav),
