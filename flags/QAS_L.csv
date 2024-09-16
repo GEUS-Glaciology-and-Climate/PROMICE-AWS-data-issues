@@ -15,3 +15,5 @@ t0,t1,variable,flag,comment,URL_graphic
 # 2022-09-01T00:00:00+00:00,,t_i_8,CHECKME,manually flagged (bav),
 
 2019-08-28T00:00:00+00:00,2019-12-11T00:00:00+00:00,gps_lat gps_lon,NAN,manually flagged (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/151
+
+2024-06-04T00:00:00+00:00, , rh_u t_u wspd_u wdir_u rh_i t_i wspd_i wdir_i dsr usr dlr ulr z_boom_u, NAN, station fallen (mcl confirmed),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/168
