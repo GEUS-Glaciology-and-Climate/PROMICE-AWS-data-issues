@@ -10,5 +10,5 @@ t0,t1,variable,flag,comment,URL_graphic
 2023-07-10T00:00:00+00:00,2023-07-17T00:00:00+00:00,t_i_.*($),NAN,Manually flagged by bav,
 
 2024-05-27T12:00:00+00:00,2024-05-27T22:00:00+00:00,p_u t_u rh_u wspd_u wdir_u  p_l t_l rh_l wspd_l wdir_l dsr usr dlr ulr t_rad t_i_1 t_i_2 t_i_3 t_i_4 t_i_5 t_i_6 t_i_7 t_i_8 t_i_9 t_i_10 t_i_11 tilt_x tilt_y z_pt rot z_boom_u z_boom_l z_stake gps_lat gps_lon gps_alt precip_u precip_l p_i t_i rh_i wspd_i wdir_i,NAN,2024 maintenance,
-2023-11-20T00:00:00+00:00,,tilt_x tilt_y,NAN,suspicious values (bav),
+2023-11-20T00:00:00+00:00,,tilt_x tilt_y,NAN,suspicious tilt values  that did not match with the actual tilt on station visit (bav),
 
