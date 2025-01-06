@@ -10,3 +10,5 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2023-06-01T00:00:00+00:00,,z_surf_1,add,1.5,manually adjusted by bav,
 2023-06-01T00:00:00+00:00,,z_surf_2,add,1.5,manually adjusted by bav,
 
+2024-05-22T00:00:00+00:00,2024-09-16T00:00:00+00:00,p_u,min_filter,780,few outliers manually removed by bav,
+
