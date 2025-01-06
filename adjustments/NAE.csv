@@ -1,2 +1,4 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_u,min_filter,2,manually adjusted by bav,
+
+,,z_boom_l,max_filter,3,manually adjusted by bav,

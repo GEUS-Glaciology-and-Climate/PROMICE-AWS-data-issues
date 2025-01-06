@@ -6,3 +6,5 @@ t0,t1,variable,flag,comment,URL_graphic
 2023-12-23T00:00:00+00:00,2024-01-04T00:00:00+00:00,p_i p_l,NAN,suspicious values for lower luft pressure (maclu),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
 2024-01-23T00:00:00+00:00,,p_i p_l,NAN,Suspicious values for lower luft pressure (maclu),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
 2023-10-22T16:00:00+00:00,,p_u,NAN,p_u is constant at 7999.0,
+
+2024-12-07T00:00:00+00:00,,z_boom_u,NAN, sudden drop of >2m (bav),
