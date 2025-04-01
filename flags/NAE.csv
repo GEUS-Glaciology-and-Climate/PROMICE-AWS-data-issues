@@ -1,5 +1,6 @@
 t0,t1,variable,flag,comment,URL_graphic
-2023-06-01T00:00:00+00:00,,t_i_.*($),CONFIRMED,constant ice temperature after that date (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/85
+2023-06-01T00:00:00+00:00,2024-06-18T00:00:00+00:00,t_i_.*($),CONFIRMED,constant ice temperature after that date (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/85
+2023-06-01T00:00:00+00:00,,t_i_1 t_i_2 t_i_3 t_i_4 t_i_5 t_i_6 t_i_7 t_i_8,CONFIRMED,sensors out of the snow (bav),
 2023-12-18T00:00:00+00:00,2024-01-07T00:00:00+00:00,p_u p_l p_i,NAN,Manually flagged by maclu. Suspicious pressure data ,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
 2024-01-18T00:00:00+00:00,2024-02-18T00:00:00+00:00,p_u p_l p_i,NAN,Manually flagged by maclu. Suspicious pressure data ,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
 2024-02-25T00:00:00+00:00,2024-03-01T00:00:00+00:00,p_u p_l p_i,NAN,Manually flagged by maclu. Suspicious pressure data ,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
