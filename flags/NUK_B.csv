@@ -1,3 +1,4 @@
 t0,t1,variable,flag,comment,URL_graphic
 2025-01-29T22:00:00+00:00, , t_u t_i rh_u rh_i dsr usr dlr ulr wspd_u wspd_i wdir_u wdir_i z_boom_u precip_u, NAN, station may have toppled (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/175
+,,dsr, NAN, value 5x lower than expected (bav), 
 
