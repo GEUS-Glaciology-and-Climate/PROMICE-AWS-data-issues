@@ -13,3 +13,5 @@ t0,t1,variable,flag,comment,URL_graphic
 2023-11-27T00:00:00+00:00,2024-05-21T17:00:00+00:00,t_i_.*($),flat firn temperature reading (bav),
 2023-12-27T00:00:00+00:00,2024-05-21T17:00:00+00:00,wspd_l wspd_i wdir_l wdir_i,CONFIRMED, too much zero values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/145
 2023-12-27T00:00:00+00:00,2024-01-06T00:00:00+00:00,wspd_u wdir_u,CONFIRMED, too much zero values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/145
+
+2025-05-20T11:00:00+00:00,,wspd_u wspd_l wspd_i,NAN,Unsupported anemomter installed (maclu),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/177
