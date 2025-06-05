@@ -6,5 +6,7 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2024-12-07T00:00:00+00:00,2025-03-15T00:00:00+00:00,z_boom_u,min_filter, 2,manually adjusted by bav,
 2024-12-07T00:00:00+00:00,2025-03-15T00:00:00+00:00,z_boom_u,max_filter, 2.6,manually adjusted by bav,
 
-2023-06-19T00:00:00+00:00,,z_surf_1,add,1.6,manually adjusted by bav,
-2023-06-19T00:00:00+00:00,,z_surf_2,add,1.55,manually adjusted by bav,
+2023-06-19T00:00:00+00:00,,z_surf_1,add,1.5, mast raise (bav),
+2023-06-19T00:00:00+00:00,,z_surf_2,add,1.5, mast raise (bav),
+2025-05-11T00:00:00+00:00,,z_surf_1,add,1.5, mast raise (bav),
+2025-05-11T00:00:00+00:00,,z_surf_2,add,1.5, mast raise (bav),

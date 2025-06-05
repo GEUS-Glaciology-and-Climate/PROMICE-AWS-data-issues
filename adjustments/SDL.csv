@@ -3,8 +3,11 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,2025-05-24T00:00:00+00:00,z_boom_l,min_filter,1,manually adjusted by bav,
 ,2025-05-24T00:00:00+00:00,z_boom_u,min_filter,1.76,manually adjusted by bav,
 
-2023-06-01T00:00:00+00:00,,z_surf_1,add,2.25,manually adjusted by bav,
-2024-05-24T00:00:00+00:00,,z_surf_1,add,1.575,manually adjusted by bav,
-
-2023-06-01T00:00:00+00:00,,z_surf_2,add,2.15,manually adjusted by bav,
-2024-05-24T00:00:00+00:00,,z_surf_2,add,1.525,manually adjusted by bav,
+2022-06-23T14:00:00+00:00,,z_surf_1,add,0.5,mast raise (bav),
+2022-06-23T14:00:00+00:00,,z_surf_2,add,0.5,mast raise (bav),
+2023-06-01T00:00:00+00:00,,z_surf_1,add,2.25,mast raise (bav),
+2023-06-01T00:00:00+00:00,,z_surf_2,add,2.15,mast raise (bav),
+2024-05-24T18:00:00+00:00,,z_surf_1,add,1.575,mast raise (bav),
+2024-05-24T18:00:00+00:00,,z_surf_2,add,1.525,mast raise (bav),
+2025-05-20T14:00:00+00:00,,z_surf_1,add,1.5,mast raise (bav),
+2025-05-20T14:00:00+00:00,,z_surf_2,add,1.5,mast raise (bav),
