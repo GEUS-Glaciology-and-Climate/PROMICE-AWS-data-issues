@@ -29,7 +29,7 @@ t0, t1, variable, flag, comment, URL_graphic
 2018-02-01T08:00:00+00:00,2018-02-02T20:00:00+00:00,ulr,CHECKME,manually flagged by bav,
 2018-02-03T14:00:00+00:00,2018-02-06T00:00:00+00:00,ulr,CHECKME,manually flagged by bav,
 
-2010-07-25T00:00:00+00:00,2010-10-19T00:00:00+00:00,2025-05-19T00:00:00+00:00,,gps_lon,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/154
+2010-07-25T00:00:00+00:00,2010-10-19T00:00:00+00:00,gps_lon,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/154
 
 2023-05-30T10:00:00+00:00,,t_i_2,NAN,erroneous thermistor measurements (pho)
 2023-07-11T07:00:00+00:00,,t_i_6,NAN,erroneous thermistor measurements (pho)
