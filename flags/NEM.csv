@@ -14,5 +14,5 @@ t0,t1,variable,flag,comment,URL_graphic
 2023-10-18T18:00:00+00:00,2023-10-20T00:00:00+00:00,p_l p_i,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
 2024-01-14T00:00:00+00:00,2024-05-16T17:00:00+00:00,wspd_l wspd_u wspd_i wdir_u wdir_l wdir_i,CONFIRMED, too much zero values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/145
 
-2024-05-16T00:00:00+00:00,, rh_l,NAN,cap on HMP was left on (bav),
+2024-05-16T00:00:00+00:00,2025-06-13T19:00:00+00:00, rh_l,NAN,cap on HMP was left on (bav),
 
