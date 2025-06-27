@@ -9,3 +9,4 @@ t0, t1, variable, flag, comment, URL_graphic
 2022-12-03T00:00:00+00:00, 2023-06-20T00:00:00+00:00,t_i_.*($),CONFIRMED,all thermistors give 0degC during that period,
 2023-09-14T03:00:00+00:00, 2024-05-26T00:00:00+00:00,t_i_.*($),CONFIRMED,give constant values, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/71
 ,2021-06-17T18:00:00+00:00,z_boom_u z_boom_l,CONFIRMED,unlikely value during installation,
+2022-01-14 18:20:00+00:00, 2022-01-31 09:00:00+00:00, p_l t_l rh_l precip_l, NAN, LUFFT gives constant values and temperature is nan, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/184
