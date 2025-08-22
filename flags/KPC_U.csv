@@ -2,3 +2,4 @@ t0,t1,variable,flag,comment,URL_graphic
 2006-07-10T00:00:00+00:00,,z_pt_cor,NAN,manually flagged by bav,
 2019-06-28T00:00:00+00:00,,t_i_.*($),NAN,manually flagged by bav,
 # 2022-06-01T00:00:00+00:00,,dsr,NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/80
+2020-04-05T00:00:00+00:00,,tilt_x tilt_y,NAN,manually flagged by bav,
