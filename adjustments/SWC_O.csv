@@ -4,4 +4,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 
 2023-06-09T00:00:00+00:00,,z_ice_surf,add,-0.35  , ,
 2023-09-19T00:00:00+00:00,,z_ice_surf,add,-1, ,
-2023-09-19T00:00:00+00:00,,z_surf_2,add,1, ,
+2023-09-19T15:00:00+00:00,,z_surf_2,add,1, ,
+2025-08-20T16:00:00+00:00,,z_surf_2,add,-2, ,
+2025-08-07T16:00:00+00:00,,z_surf_1,add,-0.4, ,
