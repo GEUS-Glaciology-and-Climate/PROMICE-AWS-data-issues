@@ -6,13 +6,12 @@ t0,t1,variable,flag,comment,URL_graphic
 2016-05-01T00:00:00+00:00,2016-08-14T00:00:00+00:00,z_pt_cor,NAN,manually flagged by bav,
 2023-03-01T00:00:00+00:00,2023-06-22T16:00:00+00:00,z_pt_cor,NAN,manually flagged by bav,
 2023-12-01T00:00:00+00:00,2024-05-01T16:00:00+00:00,z_pt_cor,NAN,manually flagged by bav,
-2024-11-30T00:00:00+00:00,2025-06-28T16:00:00+00:00,z_pt_cor,NAN,manually flagged by bav,
+2024-11-30T00:00:00+00:00, ,z_pt_cor,NAN,steady decrease through winter then jump in the summer due to station tilt (bav),
 
 2008-09-15T00:00:00+00:00,2008-12-01T00:00:00+00:00,z_stake,NAN,manually flagged by bav,
 2009-07-11T00:00:00+00:00,2009-10-10T00:00:00+00:00,z_stake,NAN,manually flagged by bav,
 2012-08-01T00:00:00+00:00,2012-10-03T00:00:00+00:00,z_stake,NAN,manually flagged by bav,
 2009-05-01T00:00:00+00:00,2009-09-01T00:00:00+00:00,z_boom_u,NAN,manually flagged by bav,
-2025-07-01T00:00:00+00:00,,z_boom_u,NAN,manually flagged by bav,
 
 2008-09-17T10:00:00+00:00, 2009-05-06T23:00:00+00:00, t_u t_i rh_u rh_i p_u p_i dsr usr dlr ulr wspd_u wspd_i wdir_u wdir_i z_boom_u, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/40
 2008-09-17T10:00:00+00:00, 2010-10-01T23:00:00+00:00, wspd_u wdir_u, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/115
@@ -22,3 +21,5 @@ t0,t1,variable,flag,comment,URL_graphic
 2018-12-14T00:00:00+00:00, 2019-06-30T14:00:00+00:00, dlr ulr, NAN, flagged by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/40
 
 2013-09-12T00:00:00+00:00,2014-03-17T00:00:00+00:00, dlr ulr dsr usr p_u rh_u t_i_1 t_i_2 t_i_3 t_i_4 t_i_5 t_i_6 t_i_7 t_i_8 wdir_u, most of station disfunctional (bav), 
+
+2025-07-05T10:00:00+00:00, ,usr dsr ulr dlr wspd_u wspd_i wdir_u wdir_i z_boom_u, NAN, station potentially fallen (bav), 
