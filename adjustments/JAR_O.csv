@@ -4,9 +4,11 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,p_u,min_filter,800, site-specific min filter (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/172
 2024-08-16T00:00:00+00:00,2024-11-24T00:00:00+00:00,z_boom_u,min_filter,2.14, constant reflector (bav),
 2024-08-16T00:00:00+00:00,2024-12-17T00:00:00+00:00,z_boom_u,min_filter,1.8, constant reflector (bav),
+2025-08-16T00:00:00+00:00,,z_stake,min_filter,1.5, constant reflector (bav),
 
 2023-09-19T00:00:00+00:00,,z_surf_2,add,1,manually adjusted by bav,
 2024-08-19T14:00:00+00:00,,z_surf_2,add,-2.5,2024 fieldwork (bav),
+2025-08-01T00:00:00+00:00,,z_surf_2,add,0.5,preserving general trend over a gap (bav),
 
 2024-08-19T14:00:00+00:00,,z_surf_1,add,-0.8,2024 fieldwork (bav),
 
