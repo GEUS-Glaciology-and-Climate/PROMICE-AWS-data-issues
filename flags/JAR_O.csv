@@ -1,6 +1,6 @@
 t0,t1,variable,flag,comment,URL_graphic
 ,2022-11-01T00:00:00+00:00,dsr,NAN,unlikely low values (bav),
-2022-01-01T00:00:00+00:00,2025-08-20T12:00:00+00:00,z_pt_cor,CONFIRMED,very unlikely values (bav),
+2022-01-01T00:00:00+00:00,2025-10-01T00:00:00+00:00,z_pt_cor,CONFIRMED,very unlikely values (bav),
 2024-08-22T00:00:00+00:00,2024-09-15T00:00:00+00:00,z_boom_u,CONFIRMED,very sporadic values (bav),
 2025-01-02T04:00:00+00:00,2025-01-04T00:00:00+00:00,t_u rh_u,CONFIRMED,luft malfunction (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/172
 2025-01-20T12:00:00+00:00,2025-01-24T12:00:00+00:00,t_u rh_u,CONFIRMED,luft malfunction (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/172
