@@ -7,11 +7,8 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,gps_lat,min_filter,67.065, removing noise (bav),
 ,,gps_alt,min_filter,1200, removing noise (bav),
 
-#2015-03-01T00:00:00+00:00,,z_ice_surf,add,-15.0,manually adjusted by bav,
 2018-08-27T19:00:00+00:00,,z_ice_surf,add,-12.7,manually adjusted by bav,
 2018-10-27T03:00:00+00:00,,z_ice_surf,add,9.5,manually adjusted by bav,
-
-#2011-04-21T00:00:00+00:00,,z_surf_1,add,-2.8,manually adjusted by bav,
 
 2011-04-21T00:00:00+00:00,,z_surf_2,add,-2.3,manually adjusted by bav,
 2012-05-04T00:00:00+00:00,,z_surf_2,add,-1.8,manually adjusted by bav,
