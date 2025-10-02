@@ -1,14 +1,11 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,2023-04-21T00:00:00+00:00,z_boom_u,min_filter,2.3,manually adjusted by bav,
-,2022-05-01T00:00:00+00:00,z_boom_u,max_filter,4,manually adjusted by bav,
-
-,2023-04-21T00:00:00+00:00,z_boom_l,min_filter,1.3,manually adjusted by bav,
-,2023-01-01T00:00:00+00:00,z_boom_l,max_filter,2.6,manually adjusted by bav,
-2024-12-01T00:00:00+00:00,2025-03-01T00:00:00+00:00,z_boom_l,min_filter,2,manually adjusted by bav,
-2024-12-01T00:00:00+00:00,2025-03-01T00:00:00+00:00,z_boom_u,min_filter,3.5,manually adjusted by bav,
-
+,2023-04-21T00:00:00+00:00,z_boom_cor_u,min_filter,2.3,manually adjusted by bav,
+,2022-05-01T00:00:00+00:00,z_boom_cor_u,max_filter,4.0,manually adjusted by bav,
+,2023-04-21T00:00:00+00:00,z_boom_cor_l,min_filter,1.3,manually adjusted by bav,
+,2023-01-01T00:00:00+00:00,z_boom_cor_l,max_filter,2.6,manually adjusted by bav,
+2024-12-01T00:00:00+00:00,2025-03-01T00:00:00+00:00,z_boom_cor_l,min_filter,2.0,manually adjusted by bav,
+2024-12-01T00:00:00+00:00,2025-03-01T00:00:00+00:00,z_boom_cor_u,min_filter,3.5,manually adjusted by bav,
 ,,t_i_.*($),min_filter,-30.0,,
-
 2022-06-01T18:00:00+00:00,,z_surf_1,add,1.5,mast raise (bav),
 2022-06-01T18:00:00+00:00,,z_surf_2,add,1.5,mast raise (bav),
 2023-06-19T14:00:00+00:00,,z_surf_1,add,1.5,mast raise (bav),

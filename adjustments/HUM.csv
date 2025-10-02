@@ -1,7 +1,6 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,p_u p_l,min_filter,730,,
-,,p_u p_l,max_filter,820,,
-,2022-07-09T00:00:00+00:00,z_boom_u,min_filter,3.72,,
-
+,,p_u p_l,min_filter,730.0,,
+,,p_u p_l,max_filter,820.0,,
+,2022-07-09T00:00:00+00:00,z_boom_cor_u,min_filter,3.72,,
 2025-06-08T16:00:00+00:00,,z_surf_1,add,1.5, mast raise (bav),
 2025-06-08T16:00:00+00:00,,z_surf_2,add,1.5, mast raise (bav),

@@ -1,17 +1,15 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
-,,z_boom_u,min_filter,1, never seen more than 1.80 cm of snow at KAN_L (bav),
-2012-01-01T00:00:00+00:00,2016-01-01T00:00:00+00:00,rh_u,min_filter,40,,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/133
-,,t_i_.*($),min_filter,-25,,
-,,p_u,max_filter,950,,
+,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
+,,z_boom_cor_u,min_filter,1.0, never seen more than 1.80 cm of snow at KAN_L (bav),
+2012-01-01T00:00:00+00:00,2016-01-01T00:00:00+00:00,rh_u,min_filter,40.0,,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/133
+,,t_i_.*($),min_filter,-25.0,,
+,,p_u,max_filter,950.0,,
 ,,gps_lat,min_filter,67.065, removing noise (bav),
-,,gps_alt,min_filter,1200, removing noise (bav),
-
+,,gps_alt,min_filter,1200.0, removing noise (bav),
 2018-08-27T19:00:00+00:00,,z_ice_surf,add,-12.7,manually adjusted by bav,
 2018-10-27T03:00:00+00:00,,z_ice_surf,add,9.5,manually adjusted by bav,
-
 2011-04-21T00:00:00+00:00,,z_surf_2,add,-2.3,manually adjusted by bav,
 2012-05-04T00:00:00+00:00,,z_surf_2,add,-1.8,manually adjusted by bav,
 2013-04-29T00:00:00+00:00,,z_surf_2,add,-2.0,manually adjusted by bav,
 2019-09-06T00:00:00+00:00,,z_surf_2,add,-1.8,manually adjusted by bav,
-2023-08-22T00:00:00+00:00,,z_surf_2,add,-2,manually adjusted by bav,
+2023-08-22T00:00:00+00:00,,z_surf_2,add,-2.0,manually adjusted by bav,

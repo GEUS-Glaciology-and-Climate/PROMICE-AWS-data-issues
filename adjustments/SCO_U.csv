@@ -1,18 +1,15 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
-,,z_boom_u,min_filter,1.8, maximum snow height of 0.7 m at that site,
-
-2011-07-01T00:00:00+00:00, 2012-06-01T00:00:00+00:00,z_stake,max_filter, 2.02,manually adjusted by bav,
-2011-10-01T00:00:00+00:00, 2012-06-01T00:00:00+00:00,z_stake,min_filter, 1.91,manually adjusted by bav,
-2020-12-13T00:00:00+00:00, 2021-07-18T00:00:00+00:00,z_stake,max_filter, 2.33,manually adjusted by bav,
-2021-07-18T00:00:00+00:00, 2022-06-22T00:00:00+00:00,z_stake,min_filter, 2.6,manually adjusted by bav,
-2021-07-30T00:00:00+00:00, 2022-06-22T00:00:00+00:00,z_stake,min_filter, 2.84,manually adjusted by bav,
-2021-08-22T00:00:00+00:00, 2022-06-22T00:00:00+00:00,z_stake,min_filter, 3.24,manually adjusted by bav,
-2021-07-29T00:00:00+00:00, 2022-06-22T00:00:00+00:00,z_stake,max_filter, 4,manually adjusted by bav,
-
+,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
+,,z_boom_cor_u,min_filter,1.8, maximum snow height of 0.7 m at that site,
+2011-07-01T00:00:00+00:00, 2012-06-01T00:00:00+00:00,z_stake_cor,max_filter,2.02,manually adjusted by bav,
+2011-10-01T00:00:00+00:00, 2012-06-01T00:00:00+00:00,z_stake_cor,min_filter,1.91,manually adjusted by bav,
+2020-12-13T00:00:00+00:00, 2021-07-18T00:00:00+00:00,z_stake_cor,max_filter,2.33,manually adjusted by bav,
+2021-07-18T00:00:00+00:00, 2022-06-22T00:00:00+00:00,z_stake_cor,min_filter,2.6,manually adjusted by bav,
+2021-07-30T00:00:00+00:00, 2022-06-22T00:00:00+00:00,z_stake_cor,min_filter,2.84,manually adjusted by bav,
+2021-08-22T00:00:00+00:00, 2022-06-22T00:00:00+00:00,z_stake_cor,min_filter,3.24,manually adjusted by bav,
+2021-07-29T00:00:00+00:00, 2022-06-22T00:00:00+00:00,z_stake_cor,max_filter,4.0,manually adjusted by bav,
 ,,t_i_.*($),min_filter,-30.0,,
-,,p_u,min_filter,750,,
-
+,,p_u,min_filter,750.0,,
 2012-08-29T00:00:00+00:00,,z_ice_surf,add,-1.47,manually adjusted by bav,
 2017-08-05T00:00:00+00:00,,z_ice_surf,add,-12.08,manually adjusted by bav,
 2020-07-26T12:00:00+00:00,,z_ice_surf,add,-5.8,manually adjusted by bav,

@@ -1,8 +1,6 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
-
+,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 ,,t_i_.*($),min_filter,-30.0,,
-
 2013-08-02T00:00:00+00:00,,z_ice_surf,add,-15.3,manually adjusted by bav,
 2015-08-02T00:00:00+00:00,,z_ice_surf,add,-0.32,manually adjusted by bav,
 2020-08-10T00:00:00+00:00,,z_ice_surf,add,-8.7,manually adjusted by bav,
@@ -12,6 +10,5 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2018-07-14T00:00:00+00:00,,z_surf_1,add,0.7,manually adjusted by bav,
 2018-08-04T00:00:00+00:00,,z_surf_1,add,-2.0,manually adjusted by bav,
 2020-08-09T00:00:00+00:00,,z_surf_1,add,2.0,manually adjusted by bav,
-
 2015-08-01T00:00:00+00:00,,z_surf_2,add,-2.0,manually adjusted by bav,
 2017-01-01T00:00:00+00:00,,z_surf_2,add,-1.5,manually adjusted by bav,

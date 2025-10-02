@@ -1,14 +1,12 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
-
+,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 ,,t_i_.*($),min_filter,-20.0,,
-,,gps_alt,max_filter,750, removing noise (bav),
-,,gps_alt,min_filter,667, removing noise (bav),
+,,gps_alt,max_filter,750.0, removing noise (bav),
+,,gps_alt,min_filter,667.0, removing noise (bav),
 ,,gps_lon,min_filter,51.3585, removing noise (bav),
 ,,gps_lon,max_filter,51.36, removing noise (bav),
 ,,gps_lat,max_filter,64.1625, removing noise (bav),
 ,,gps_lat,min_filter,64.1621, removing noise (bav),
-
 2014-08-12T00:00:00+00:00,,z_ice_surf,add,1.25,manually adjusted by bav,
 2014-08-28T00:00:00+00:00,,z_ice_surf,add,-1.25,manually adjusted by bav,
 2018-06-26T00:00:00+00:00,,z_ice_surf,add,0.07,manually adjusted by bav,
@@ -16,14 +14,11 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2019-09-12T00:00:00+00:00,,z_ice_surf,add,-1.0,manually adjusted by bav,
 2020-08-21T00:00:00+00:00,,z_ice_surf,add,-7.9,manually adjusted by bav,
 2020-08-28T18:00:00+00:00,,z_ice_surf,add,-0.22,manually adjusted by bav,
-2023-05-31T00:00:00+00:00,,z_ice_surf,add,-17,manually adjusted by bav,
-
-2023-09-21T00:00:00+00:00,,z_surf_2,add,-3,manually adjusted by bav,
-
+2023-05-31T00:00:00+00:00,,z_ice_surf,add,-17.0,manually adjusted by bav,
+2023-09-21T00:00:00+00:00,,z_surf_2,add,-3.0,manually adjusted by bav,
 2017-07-04T00:00:00+00:00,,z_surf_1,add,-0.7,manually adjusted by bav,
-
-2022-09-01T00:00:00+00:00,2022-10-01T00:00:00+00:00,z_stake,max_filter,3,
-2022-06-01T00:00:00+00:00,2022-09-05T00:00:00+00:00,z_boom_u,min_filter,2.55,
-2022-09-05T00:00:00+00:00,2022-12-31T00:00:00+00:00,z_boom_u,min_filter,1.5,
-2016-10-01T00:00:00+00:00,2016-10-19T00:00:00+00:00,z_boom_u,min_filter,1.9,
-2016-10-01T00:00:00+00:00,2016-10-19T00:00:00+00:00,z_stake,min_filter,1.9,
+2022-09-01T00:00:00+00:00,2022-10-01T00:00:00+00:00,z_stake_cor,max_filter,3.0,,
+2022-06-01T00:00:00+00:00,2022-09-05T00:00:00+00:00,z_boom_cor_u,min_filter,2.55,,
+2022-09-05T00:00:00+00:00,2022-12-31T00:00:00+00:00,z_boom_cor_u,min_filter,1.5,,
+2016-10-01T00:00:00+00:00,2016-10-19T00:00:00+00:00,z_boom_cor_u,min_filter,1.9,,
+2016-10-01T00:00:00+00:00,2016-10-19T00:00:00+00:00,z_stake_cor,min_filter,1.9,,
