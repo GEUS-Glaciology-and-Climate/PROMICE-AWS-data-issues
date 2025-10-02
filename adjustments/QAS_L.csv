@@ -1,13 +1,10 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
-
+,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 ,,t_i_.*($),min_filter,-30.0,,
-
 ,2009-08-15T00:00:00+00:00,gps_lat,min_filter,61.0235, manual filer (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/151
 ,2009-08-15T00:00:00+00:00,gps_lon,min_filter,46.872, manual filer (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/151
-,,gps_alt,max_filter,345, manual filer (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/151
-,,gps_alt,min_filter,200, manual filer (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/151
-
+,,gps_alt,max_filter,345.0, manual filer (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/151
+,,gps_alt,min_filter,200.0, manual filer (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/151
 2008-08-02T00:00:00+00:00,,z_ice_surf,add,-7.0,manually adjusted by bav,
 2008-10-03T00:00:00+00:00,,z_ice_surf,add,5.1,manually adjusted by bav,
 2008-08-07T00:00:00+00:00,,z_ice_surf,add,-1.9,manually adjusted by bav,
@@ -35,12 +32,10 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2020-07-01T00:00:00+00:00,,z_ice_surf,add,-9.5,manually adjusted by bav,
 2021-09-02T00:00:00+00:00,,z_ice_surf,add,-8.7,manually adjusted by bav,
 2022-08-29T14:00:00+00:00,,z_ice_surf,add,-5.7,manually adjusted by bav,
-
 2010-07-19T00:00:00+00:00,,z_surf_2,add,-3.5,manually adjusted by bav,
 2012-08-17T00:00:00+00:00,,z_surf_2,add,-4.0,manually adjusted by bav,
 2014-08-23T00:00:00+00:00,,z_surf_2,add,-3.5,manually adjusted by bav,
 2015-08-23T00:00:00+00:00,,z_surf_2,add,-5.5,manually adjusted by bav,
 2019-08-29T12:00:00+00:00,,z_surf_2,add,-2.0,manually adjusted by bav,
 2022-08-29T14:00:00+00:00,,z_surf_2,add,-6.0,manually adjusted by bav,
-
 2018-03-01T00:00:00+00:00,,z_surf_1,add,-6.0,manually adjusted by bav,
