@@ -1,15 +1,13 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,wspd_u,max_filter,50, removing outlier (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/94
-,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
-
+,,wspd_u,max_filter,50.0, removing outlier (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/94
+,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 ,,t_i_.*($),min_filter,-20.0,,
-,,gps_alt,max_filter,1200, manually filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/150
-,,gps_alt,min_filter,1040, manually filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/150
+,,gps_alt,max_filter,1200.0, manually filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/150
+,,gps_alt,min_filter,1040.0, manually filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/150
 ,,gps_lon,max_filter,49.5, manually filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/150
 ,,gps_lon,min_filter,49.255, manually filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/150
 ,,gps_lat,max_filter,64.6, manually filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/150
 ,,gps_lat,min_filter,64.4, manually filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/150
-
 2010-07-23T00:00:00+00:00,,z_ice_surf,add,-2.6,manually adjusted by bav,
 2010-07-24T00:00:00+00:00,,z_ice_surf,add,-7.8,manually adjusted by bav,
 2011-04-01T00:00:00+00:00,,z_ice_surf,add,1.6,manually adjusted by bav,
@@ -17,7 +15,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2013-07-21T00:00:00+00:00,,z_ice_surf,add,-2.0,manually adjusted by bav,
 2013-07-22T00:00:00+00:00,,z_ice_surf,add,-5.8,manually adjusted by bav,
 2018-07-31T00:00:00+00:00,,z_ice_surf,add,-8.7,manually adjusted by bav,
-
 2010-07-23T18:00:00+00:00,,z_surf_2,add,-1.5,manually adjusted by bav,
 2010-07-27T18:00:00+00:00,,z_surf_2,add,1.5,manually adjusted by bav,
 2011-06-15T00:00:00+00:00,,z_surf_2,add,-1.0,manually adjusted by bav,
@@ -25,5 +22,4 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2012-08-27T00:00:00+00:00,,z_surf_2,add,-4.0,manually adjusted by bav,
 2017-07-04T00:00:00+00:00,,z_surf_2,add,-2.5,manually adjusted by bav,
 2018-07-29T00:00:00+00:00,,z_surf_2,add,-2.0,manually adjusted by bav,
-2019-09-18T15:00:00+00:00,,z_surf_2,add,-3,manually adjusted by bav,
-
+2019-09-18T15:00:00+00:00,,z_surf_2,add,-3.0,manually adjusted by bav,

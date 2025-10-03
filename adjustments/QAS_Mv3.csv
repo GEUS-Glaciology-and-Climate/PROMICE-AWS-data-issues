@@ -1,5 +1,4 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
-,,t_i_.*($),min_filter,-20, min ice temperature (bav),
-
+,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
+,,t_i_.*($),min_filter,-20.0, min ice temperature (bav),
 2024-09-01T15:00:00+00:00,,z_surf_2,add,-2.4, 2024 maintenance (bav),

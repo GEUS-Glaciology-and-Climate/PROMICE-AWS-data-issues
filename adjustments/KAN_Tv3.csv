@@ -1,7 +1,7 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,z_boom_u,max_filter,2.7, maximum height of the boom on tripod AWS,
-,,z_boom_u,min_filter,1, more than 1 m of snow highly unlikely (bav),
-,,p_u,max_filter,1000,  removing noise (bav),
+,,z_boom_cor_u,max_filter,2.7, maximum height of the boom on tripod AWS,
+,,z_boom_cor_u,min_filter,1.0, more than 1 m of snow highly unlikely (bav),
+,,p_u,max_filter,1000.0,  removing noise (bav),
 ,2024-06-15T00:00:00+00:00,z_pt_cor,min_filter,14.6,  removing noise (bav),
 2024-07-01T00:00:00+00:00,2024-07-30T00:00:00+00:00,z_pt_cor,max_filter,13.9,  removing noise (bav),
 2025-05-15T00:00:00+00:00, ,z_surf_2,add,-4.8,  stake maintenance (bav),

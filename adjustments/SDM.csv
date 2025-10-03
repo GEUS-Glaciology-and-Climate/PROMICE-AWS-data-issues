@@ -1,9 +1,8 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,t_i_.*($),min_filter,-30.0,outlier removal (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/144
-
-2023-06-01T00:00:00+00:00,,z_surf_1,add,3,mast raise (bav),
-2023-06-01T00:00:00+00:00,,z_surf_2,add,3,mast raise (bav),
+2023-06-01T00:00:00+00:00,,z_surf_1,add,3.0,mast raise (bav),
+2023-06-01T00:00:00+00:00,,z_surf_2,add,3.0,mast raise (bav),
 2024-05-23T12:00:00+00:00,,z_surf_1,add,1.5,mast raise (bav),
 2024-05-23T12:00:00+00:00,,z_surf_2,add,1.6,mast raise (bav),
-2025-05-19T17:00:00+00:00,,z_surf_1,add,3,mast raise (bav),
-2025-05-19T17:00:00+00:00,,z_surf_2,add,3,mast raise (bav),
+2025-05-19T17:00:00+00:00,,z_surf_1,add,3.0,mast raise (bav),
+2025-05-19T17:00:00+00:00,,z_surf_2,add,3.0,mast raise (bav),

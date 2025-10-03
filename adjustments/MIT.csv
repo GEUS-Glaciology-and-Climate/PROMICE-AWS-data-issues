@@ -1,6 +1,5 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
-
+,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 2009-08-12T00:00:00+00:00,,z_ice_surf,add,-12.0,manually adjusted by bav,
 2010-09-01T00:00:00+00:00,,z_ice_surf,add,2.0,manually adjusted by bav,
 2011-08-11T00:00:00+00:00,,z_ice_surf,add,-0.08,manually adjusted by bav,
@@ -9,18 +8,15 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2017-01-12T00:00:00+00:00,,z_ice_surf,add,2.5,manually adjusted by bav,
 2019-01-12T00:00:00+00:00,,z_ice_surf,add,-2.0,manually adjusted by bav,
 2021-04-12T00:00:00+00:00,,z_ice_surf,add,-1.5,manually adjusted by bav,
-
 2009-08-12T00:00:00+00:00,,z_surf_2,add,-3.15,manually adjusted by bav,
-2010-08-12T00:00:00+00:00,,z_surf_2,add,-3,manually adjusted by bav,
+2010-08-12T00:00:00+00:00,,z_surf_2,add,-3.0,manually adjusted by bav,
 2012-09-06T00:00:00+00:00,,z_surf_2,add,-2.5,manually adjusted by bav,
 2014-08-01T00:00:00+00:00,,z_surf_2,add,-0.7,manually adjusted by bav,
 2016-09-06T00:00:00+00:00,,z_surf_2,add,-0.9,manually adjusted by bav,
 2021-10-23T00:00:00+00:00,,z_surf_2,add,-0.8,manually adjusted by bav,
-
-2016-08-06T00:00:00+00:00,2016-10-06T00:00:00+00:00,z_boom_u,min_filter,2.63,manually adjusted by bav,
-
+2016-08-06T00:00:00+00:00,2016-10-06T00:00:00+00:00,z_boom_cor_u,min_filter,2.63,manually adjusted by bav,
 ,,t_i_.*($),min_filter,-20.0,,
-,2016-01-01T00:00:00+00:00,gps_lat,max_filter,66,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
-,,gps_lon,max_filter,40,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
-,,gps_alt,min_filter,300,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
-,,gps_alt,max_filter,500,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
+,2016-01-01T00:00:00+00:00,gps_lat,max_filter,66.0,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
+,,gps_lon,max_filter,40.0,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
+,,gps_alt,min_filter,300.0,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149
+,,gps_alt,max_filter,500.0,flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/149

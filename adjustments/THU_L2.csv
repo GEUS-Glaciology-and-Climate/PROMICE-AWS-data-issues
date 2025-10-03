@@ -1,13 +1,9 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,z_boom_u,max_filter,2.65, maximum height of the boom on tripod AWS,
-
-,,z_stake,max_filter,2.6, outliers manually removed by bav,
-,,z_stake,min_filter,1.33, manually removed by bav,
-
+,,z_boom_cor_u,max_filter,2.65, maximum height of the boom on tripod AWS,
+,,z_stake_cor,max_filter,2.6, outliers manually removed by bav,
+,,z_stake_cor,min_filter,1.33, manually removed by bav,
 ,,t_i_.*($),min_filter,-40.0,,
-
 2022-01-01T00:00:00+00:00,,z_ice_surf,add,2.2,manually adjusted by bav,
 2022-01-01T00:00:00+00:00,,z_surf_2,add,1.5,manually adjusted by bav,
 2024-05-10T19:00:00+00:00,,z_surf_2,add,-1.5,manually adjusted by bav,
-
 2022-01-01T00:00:00+00:00,,z_surf_1,add,-0.15,manually adjusted by bav,

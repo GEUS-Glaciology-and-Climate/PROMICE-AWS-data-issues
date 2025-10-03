@@ -1,15 +1,13 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,z_boom_u,max_filter,2.8, maximum height of the boom on tripod AWS,
-2012-08-11T00:00:00+00:00, 2015-08-03T13:00:00+00:00, wdir_u, rotate, 180 , , https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/1
+,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
+2012-08-11T00:00:00+00:00, 2015-08-03T13:00:00+00:00, wdir_u, rotate,180.0, , https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/1
 ,,t_i_.*($),min_filter,-30.0,,
-
 2009-08-18T00:00:00+00:00,,z_ice_surf,add,-19.1,manually adjusted by bav,
 2013-08-06T00:00:00+00:00,,z_ice_surf,add,-0.3,manually adjusted by bav,
 2015-08-04T00:00:00+00:00,,z_ice_surf,add,-5.75,manually adjusted by bav,
 2017-08-24T00:00:00+00:00,,z_ice_surf,add,-0.15,manually adjusted by bav,
 2020-08-08T00:00:00+00:00,,z_ice_surf,add,-9.5,manually adjusted by bav,
-2023-08-07T12:00:00+00:00,,z_ice_surf,add,-3,manually adjusted by bav,
-
+2023-08-07T12:00:00+00:00,,z_ice_surf,add,-3.0,manually adjusted by bav,
 2009-08-19T00:00:00+00:00,,z_surf_2,add,-0.15,manually adjusted by bav,
 2011-06-24T00:00:00+00:00,,z_surf_2,add,-4.5,manually adjusted by bav,
 2012-08-12T00:00:00+00:00,,z_surf_2,add,-3.1,manually adjusted by bav,
