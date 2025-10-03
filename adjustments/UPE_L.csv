@@ -1,5 +1,6 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
+,,z_boom_cor_u,min_filter,1.9, minimum height of the boom on tripod AWS,
 ,,t_i_.*($),min_filter,-30.0,,
 2013-08-02T00:00:00+00:00,,z_ice_surf,add,-15.3,manually adjusted by bav,
 2015-08-02T00:00:00+00:00,,z_ice_surf,add,-0.32,manually adjusted by bav,
