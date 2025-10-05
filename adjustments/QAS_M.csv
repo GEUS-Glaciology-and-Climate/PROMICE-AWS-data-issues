@@ -10,3 +10,5 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2019-08-29T16:00:00+00:00,,z_ice_surf,add,-1.4,manually adjusted by bav,
 2021-08-31T15:00:00+00:00,,z_ice_surf,add,-18.7,manually adjusted by bav,
 2022-09-01T15:00:00+00:00,,z_ice_surf,add,5.0,manually adjusted by bav,
+
+2020-11-01T01:00:00+00:00,2022-05-01T00:00:00+00:00,z_boom_u,delete_when_same_as_z_stake,0.07,manually adjusted by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/3
