@@ -23,3 +23,5 @@ t0,t1,variable,flag,comment,URL_graphic
 2013-09-12T00:00:00+00:00,2014-03-17T00:00:00+00:00, dlr ulr dsr usr p_u rh_u t_i_1 t_i_2 t_i_3 t_i_4 t_i_5 t_i_6 t_i_7 t_i_8 wdir_u, most of station disfunctional (bav), 
 
 2025-07-05T10:00:00+00:00,2025-09-06T15:00:00+00:00,usr dsr ulr dlr wspd_u wspd_i wdir_u wdir_i z_boom_u t_u t_i rh_u rh_i tilt_x tilt_y, NAN, station potentially fallen (bav), 
+
+2015-01-01T01:00:00+00:00,2016-01-01T00:00:00+00:00,z_boom_u,NAN,manually adjusted by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/3

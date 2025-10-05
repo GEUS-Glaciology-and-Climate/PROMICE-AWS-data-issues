@@ -18,3 +18,4 @@ t0,t1,variable,flag,comment,URL_graphic
 2019-03-28T00:00:00+00:00, 2019-05-16T00:00:00+00:00, rh_u t_u wspd_u wdir_u p_u rh_i t_i wspd_i wdir_i p_i dsr usr dlr ulr z_boom_u, NAN, station buried (bav), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/103
 
 2018-10-03T00:00:00+00:00,2020-08-29T00:00:00+00:00,rh_u, NAN,noisy values manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/103
+2022-01-25T01:00:00+00:00,2022-08-31T21:00:00+00:00,z_boom_u,NAN,manually adjusted by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/3
