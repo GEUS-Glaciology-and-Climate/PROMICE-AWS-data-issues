@@ -16,4 +16,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2021-01-01T00:00:00+00:00,,z_ice_surf,add,3.0,manually adjusted by bav,
 2022-01-01T00:00:00+00:00,,z_ice_surf,add,-4.6,manually adjusted by bav,
 2022-09-07T00:00:00+00:00,,z_ice_surf,add,-1.0,manually adjusted by bav,
+2023-06-01T00:00:00+00:00,,z_ice_surf,add,0.7,manually adjusted by bav,
+
 2009-08-13T00:00:00+00:00,,z_surf_2,add,-2.0,manually adjusted by bav,
