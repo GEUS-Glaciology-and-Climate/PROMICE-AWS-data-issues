@@ -2,3 +2,6 @@ t0, t1, variable, flag, comment, URL_graphic
 , 2022-06-01T00:00:00+00:00, z_pt_cor, NAN, spurious variations (bav),
 2024-09-15T00:00:00+00:00, , z_pt_cor, NAN, spurious variations (bav),
  , , t_i_8, NAN, spurious variations (bav),
+
+
+,, dsr usr dlr ulr z_pt, NAN, uncalibrated values temporarily removed (bav & mcit),
