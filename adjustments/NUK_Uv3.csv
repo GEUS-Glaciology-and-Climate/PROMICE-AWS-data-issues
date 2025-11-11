@@ -4,3 +4,5 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,gps_lon,min_filter,49.27, manually filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/98
 ,,gps_lat,min_filter,64.505, manually filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/98
 2022-08-19T12:00:00+00:00,,z_ice_surf,add,-0.5,manually adjusted by bav,
+
+2025-06-07T16:00:00+00:00,,z_surf_2,add,-2,manually adjusted by bav,
