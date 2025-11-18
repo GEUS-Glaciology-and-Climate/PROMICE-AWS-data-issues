@@ -1,2 +1,4 @@
 t0,t1,variable,flag,comment,URL_graphic
 ,,z_pt_cor,NAN,very unlikely values (bav),
+
+2024-10-30T00:00:00+00:00,2024-11-01T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61

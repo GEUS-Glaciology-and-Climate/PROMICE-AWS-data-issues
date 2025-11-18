@@ -2,3 +2,5 @@ t0,t1,variable,flag,comment,URL_graphic
 2023-09-23T12:00:00+00:00,2024-05-01T12:00:00+00:00,z_pt_cor,NAN,manually flagged by bav,
 
 2025-06-29T12:00:00+00:00,2025-09-05T12:00:00+00:00,p_u p_i t_u t_i rh_u rh_i,NAN,Lufft malfunction (bav),
+
+2023-11-03T00:00:00+00:00,2023-11-05T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61

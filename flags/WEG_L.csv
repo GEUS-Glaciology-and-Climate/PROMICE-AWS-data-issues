@@ -5,3 +5,6 @@ t0, t1, variable, flag, comment, URL_graphic
 2023-08-28T00:00:00+00:00,2023-11-30T00:00:00+00:00,z_boom_u,NAN,flagged by bav,
 
 2023-04-01T00:00:00+00:00,2023-06-29T01:00:00+00:00,t_i_.*($),NAN,flagged by bav,
+
+2024-01-07T00:00:00+00:00,2024-01-09T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2024-03-09T00:00:00+00:00,2024-03-11T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61

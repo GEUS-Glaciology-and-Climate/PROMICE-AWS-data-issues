@@ -4,3 +4,6 @@ t0,t1,variable,flag,comment,URL_graphic
 2024-08-22T00:00:00+00:00,2024-09-15T00:00:00+00:00,z_boom_u,CONFIRMED,very sporadic values (bav),
 2025-01-02T04:00:00+00:00,2025-01-04T00:00:00+00:00,t_u rh_u,CONFIRMED,luft malfunction (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/172
 2025-01-20T12:00:00+00:00,2025-01-24T12:00:00+00:00,t_u rh_u,CONFIRMED,luft malfunction (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/172
+
+2024-01-18T00:00:00+00:00,2024-01-20T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2024-05-02T00:00:00+00:00,2024-05-04T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61

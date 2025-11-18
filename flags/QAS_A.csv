@@ -1,2 +1,6 @@
 t0,t1,variable,flag,comment,URL_graphic
 2015-01-26T00:00:00+00:00, 2015-08-15T12:00:00+00:00, rh_u t_u wspd_u wdir_u p_u dsr usr dlr ulr z_boom_u, NAN, station buried (visible from z_boom), https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/42
+
+2014-04-11T00:00:00+00:00,2014-04-14T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2014-04-19T00:00:00+00:00,2014-04-24T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2015-01-22T00:00:00+00:00,2015-01-24T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
