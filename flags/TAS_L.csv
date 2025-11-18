@@ -25,3 +25,25 @@ t0,t1,variable,flag,comment,URL_graphic
 2025-07-05T10:00:00+00:00,2025-09-06T15:00:00+00:00,usr dsr ulr dlr wspd_u wspd_i wdir_u wdir_i z_boom_u t_u t_i rh_u rh_i tilt_x tilt_y, NAN, station potentially fallen (bav), 
 
 2015-01-01T01:00:00+00:00,2016-01-01T00:00:00+00:00,z_boom_u,NAN,manually adjusted by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/3
+
+2007-11-13T00:00:00+00:00,2007-11-17T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2008-02-09T00:00:00+00:00,2008-02-12T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2010-12-09T00:00:00+00:00,2010-12-11T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2011-01-23T00:00:00+00:00,2011-01-29T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2011-04-12T00:00:00+00:00,2011-04-16T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2012-10-23T00:00:00+00:00,2012-10-25T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2012-11-13T00:00:00+00:00,2012-11-15T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2018-03-24T00:00:00+00:00,2018-03-28T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2018-10-10T00:00:00+00:00,2018-10-13T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2018-10-19T00:00:00+00:00,2018-10-21T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2018-10-27T00:00:00+00:00,2018-11-07T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2018-11-10T00:00:00+00:00,2018-12-10T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2021-01-14T00:00:00+00:00,2021-01-17T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2021-01-30T00:00:00+00:00,2021-02-01T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2021-03-08T00:00:00+00:00,2021-03-11T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2022-10-23T00:00:00+00:00,2022-10-28T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2023-02-01T00:00:00+00:00,2023-02-03T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2023-02-07T00:00:00+00:00,2023-02-15T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2023-04-04T00:00:00+00:00,2023-04-08T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2024-01-14T00:00:00+00:00,2024-01-20T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2024-01-26T00:00:00+00:00,2024-01-28T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61

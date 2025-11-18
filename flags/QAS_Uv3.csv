@@ -9,3 +9,8 @@ t0,t1,variable,flag,comment,URL_graphic
 2022-01-28T00:00:00+00:00, 2022-05-01T00:00:00+00:00, dlr ulr usr dsr usr_cor dsr_cor t_rad, CONFIRMED, radiometer buried ? (bav),
 
 2024-03-15T15:00:00+00:00, 2024-09-01T15:00:00+00:00, ulr dlr t_rad, CONFIRMED, t_rad not working (bav),
+
+2020-10-19T00:00:00+00:00,2020-10-21T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2020-12-19T00:00:00+00:00,2020-12-26T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2021-11-06T00:00:00+00:00,2021-11-08T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+2023-12-18T00:00:00+00:00,2023-12-22T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
