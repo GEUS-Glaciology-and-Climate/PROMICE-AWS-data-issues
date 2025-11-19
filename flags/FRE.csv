@@ -2,5 +2,3 @@ t0, t1, variable, flag, comment, URL_graphic
 ,2023-04-29T14:10:00+00:00,p_u, NAN, flagged until it is decoded properly (bav), 
 ,2023-07-12T14:10:00+00:00,z_pt z_pt_cor, NAN, ablation in april but not in JJA (bav), 
 2019-08-30T00:00:00+00:00,2021-08-01T00:00:00+00:00,z_stake, NAN, noisy (bav), 
-
-,,usr dsr ulr dlr, NAN, no calibration coefficient (bav), 
