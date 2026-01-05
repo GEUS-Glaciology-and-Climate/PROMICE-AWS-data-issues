@@ -2,9 +2,15 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_cor_u,max_filter,3.95,manually adjusted by bav,
 ,,z_boom_cor_u,min_filter,2.5,manually adjusted by bav,
 ,2024-07-03T00:00:00+00:00,z_boom_cor_l,max_filter,2.73,manually adjusted by bav,
+2025-10-22T00:00:00+00:00,2025-12-15T00:00:00+00:00,z_boom_u,max_filter,3.63,manually adjusted by bav,
+
 ,,p_u p_l,min_filter,700.0,,
 ,,p_u p_l,max_filter,770.0,,
 2022-06-01T00:00:00+00:00,,z_surf_1,add,0.8,manually adjusted by bav,
 2022-06-01T00:00:00+00:00,,z_surf_2,add,0.8,manually adjusted by bav,
 2024-05-01T00:00:00+00:00,,z_surf_1,add,1.36,manually adjusted by bav,
 2024-05-01T00:00:00+00:00,,z_surf_2,add,1.3,manually adjusted by bav,
+
+
+,2023-01-01T00:00:00+00:00,tilt_y,min_filter,-2,,
+,2023-01-01T00:00:00+00:00,tilt_x,max_filter,1,,

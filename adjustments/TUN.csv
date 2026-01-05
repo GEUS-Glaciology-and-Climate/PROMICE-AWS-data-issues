@@ -1,2 +1,10 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
-,,p_u p_l,max_filter,810, ,
+,,p_u,min_filter,700, ,
+,,p_l,min_filter,700, ,
+,,rh_u,min_filter,30, ,
+,,rh_l,min_filter,30, ,
+
+
+
+,2023-05-01T00:00:00+00:00,tilt_y,min_filter,0,,
+,2023-05-01T00:00:00+00:00,tilt_x,max_filter,0,,

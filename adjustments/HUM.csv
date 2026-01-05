@@ -5,6 +5,11 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2025-03-01T16:00:00+00:00,2025-06-01T00:00:00+00:00,p_l,min_filter,766.6,,
 
 ,,t_i_.*($),min_filter,-40.0,outlier removal (bav),
+,,t_i_10,max_filter,-20,outlier removal (bav),
+,,t_i_11,max_filter,-20,outlier removal (bav),
+
+,2023-06-08T16:00:00+00:00,tilt_y,min_filter,-2.5,,
+,2023-06-08T16:00:00+00:00,tilt_x,max_filter,5,,
 
 ,,z_boom_cor_u,max_filter,4,,
 ,2022-07-09T00:00:00+00:00,z_boom_cor_u,min_filter,3.72,,
