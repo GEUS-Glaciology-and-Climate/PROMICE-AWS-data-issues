@@ -15,3 +15,7 @@ t0,t1,variable,flag,comment,URL_graphic
 2024-01-24T00:00:00+00:00,2024-05-04T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
 2024-09-30T00:00:00+00:00,2024-10-02T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
 2024-10-17T00:00:00+00:00,2024-10-26T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
+
+2025-02-01T00:00:00+00:00,2025-05-15T00:00:00+00:00,dsr usr,RIME,manually detected as rime-affected (bav),
+
+2025-11-13T00:00:00+00:00,,wdir_u wspd_u wspd_i wdir_i,NAN,lower wspd than upper level (bav),
