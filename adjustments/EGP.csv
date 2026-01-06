@@ -1,6 +1,7 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,2023-06-21T00:00:00+00:00,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS (changed for a mast-type in 2023),
-2025-01-01T00:00:00+00:00,,t_i_.*($),min_filter,-35.0,,
+2025-01-01T00:00:00+00:00,,t_i_.*($),min_filter,-39.0,,
+2025-01-01T00:00:00+00:00,2025-08-01T00:00:00+00:00,t_i_.*($),min_filter,-35.0,,
 2025-01-01T00:00:00+00:00,2025-08-01T00:00:00+00:00,t_i_1,min_filter,-19.0,,
 2025-01-01T00:00:00+00:00,2025-08-01T00:00:00+00:00,t_i_2,min_filter,-23.0,,
 2025-01-01T00:00:00+00:00,2025-08-01T00:00:00+00:00,t_i_3,min_filter,-26.0,,
