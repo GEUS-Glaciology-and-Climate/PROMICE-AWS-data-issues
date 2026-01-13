@@ -1,4 +1,6 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
+,,t_i_.*($),min_filter,-40.0,outlier removal (bav),
+
 ,2023-06-08T12:00:00+00:00,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS (changed for a mast in 2023),
 ,,z_stake_cor,max_filter,3.5,manually adjusted by bav,
 2023-01-01T00:00:00+00:00,2023-11-01T00:00:00+00:00,dlr,max_filter,400.0,manually filtered by bav,
@@ -16,6 +18,8 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,gps_alt,min_filter,1700.0, removing noise (bav),
 ,,gps_lat,max_filter,68.0, removing noise (bav),
 ,,gps_lat,min_filter,66.998, removing noise (bav),
+,,rh_u,min_filter,20, removing noise (bav),
+,,rh_l,min_filter,20, removing noise (bav),
 # 2013-11-06T00:00:00+00:00,,z_surf_1,add,1.9,manually adjusted by bav,
 2015-05-05T00:00:00+00:00,,z_surf_1,add,1.9,manually adjusted by bav,
 2018-07-01T00:00:00+00:00,,z_surf_1,add,1.5,manually adjusted by bav,
@@ -29,3 +33,24 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2021-08-19T00:00:00+00:00,,z_surf_2,add,1.0,manually adjusted by bav,
 2023-06-01T00:00:00+00:00,,z_surf_2,add,2.7,manually adjusted by bav,
 2024-05-28T00:00:00+00:00,,z_surf_2,add,-0.15,manually adjusted by bav,
+
+
+2025-12-01T00:00:00+00:00,,t_i_3,min_filter,-17.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_3,max_filter,-7.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_4,min_filter,-17.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_4,max_filter,-7.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_5,min_filter,-17.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_5,max_filter,-7.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_6,min_filter,-17.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_6,max_filter,-7.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_7,min_filter,-17.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_7,max_filter,-6.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_8,min_filter,-17.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_8,max_filter,-6.0,outlier removal (bav),
+,,t_i_9,min_filter,-17.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_9,max_filter,-6.0,outlier removal (bav),
+,,t_i_10,min_filter,-17.0,outlier removal (bav),
+2025-12-14T00:00:00+00:00,,t_i_10,max_filter,-5.0,outlier removal (bav),
+,,t_i_11,min_filter,-17.0,outlier removal (bav),
+,,t_i_11,max_filter,-1.0,outlier removal (bav),
+
