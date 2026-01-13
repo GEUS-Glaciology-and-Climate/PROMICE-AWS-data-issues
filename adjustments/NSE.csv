@@ -4,6 +4,7 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,precip_u,max_filter,600,,
 ,2022-10-01T00:00:00+00:00,z_boom_cor_u,min_filter,2.0,,
 2023-06-01T00:00:00+00:00,2024-02-01T00:00:00+00:00,z_boom_cor_u,min_filter,2.0,,
+2025-12-01T00:00:00+00:00,,z_boom_cor_l,min_filter,1.0,,
 2022-10-01T00:00:00+00:00,2023-06-01T00:00:00+00:00,z_surf_1,add,-0.3,manually adjusted by bav,
 2022-10-01T00:00:00+00:00,2023-06-01T00:00:00+00:00,z_surf_2,add,0.3,manually adjusted by bav,
 2023-06-01T00:00:00+00:00,,z_surf_1,add,2.5,mast raise (bav),
@@ -16,3 +17,12 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2022-05-01T00:00:00+00:00,2022-10-01T00:00:00+00:00,rh_l,min_filter,50.0,,
 2022-04-01T00:00:00+00:00,2022-10-01T00:00:00+00:00,t_l,max_filter,-2.2,,
 2022-05-01T00:00:00+00:00,2022-10-01T00:00:00+00:00,t_l,min_filter,-40.0,,
+
+
+2021-09-01T00:00:00+00:00,2022-06-01T00:00:00+00:00,tilt_y,max_filter,-4.5,flagged by bav,
+,,tilt_y,min_filter,-5.8,flagged by bav,
+2022-12-09T00:00:00+00:00,2023-02-04T00:00:00+00:00,tilt_y,max_filter,1.1,flagged by bav,
+2022-12-09T00:00:00+00:00,2023-02-04T00:00:00+00:00,tilt_y,min_filter,-0.5,flagged by bav,
+
+2021-09-01T00:00:00+00:00,2022-11-01T00:00:00+00:00,tilt_x,max_filter,-0.2,flagged by bav,
+2022-12-09T00:00:00+00:00,2023-02-04T00:00:00+00:00,tilt_x,max_filter,-3.24,flagged by bav,
