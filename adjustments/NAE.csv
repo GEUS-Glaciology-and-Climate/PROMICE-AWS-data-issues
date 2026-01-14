@@ -4,5 +4,14 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,rh_l,min_filter,55,manually adjusted by bav,
 ,,rh_u,min_filter,55,manually adjusted by bav,
 ,,rh_i,min_filter,40,manually adjusted by bav,
-2024-10-15T00:00:00+00:00,2025-02-01T00:00:00+00:00,t_u,max_filter,-8,manually adjusted by bav,
-2024-10-15T00:00:00+00:00,2025-02-01T00:00:00+00:00,t_l,max_filter,-17.14,manually adjusted by bav,
+2024-10-15T00:00:00+00:00,2025-02-01T00:00:00+00:00,t_u,max_filter,-7.5,manually filtered by bav,
+2024-10-15T00:00:00+00:00,2025-02-01T00:00:00+00:00,t_l,max_filter,-17.14,manually filtered by bav,
+
+2025-10-13T00:00:00+00:00,2026-03-01T00:00:00+00:00,t_l,max_filter,-12,manually filtered by bav,
+2025-10-13T00:00:00+00:00,2026-03-01T00:00:00+00:00,t_u,max_filter,-12,manually filtered by bav,
+
+2024-08-12T00:00:00+00:00,2024-08-29T00:00:00+00:00,p_u,min_filter,706,manually filtered by bav,
+2024-08-31T00:00:00+00:00,2024-10-08T00:00:00+00:00,p_u,min_filter,716.9,manually filtered by bav,
+2025-05-01T00:00:00+00:00,2025-11-01T00:00:00+00:00,p_u,min_filter,700,manually filtered by bav,
+2025-05-13T00:00:00+00:00,2025-10-01T00:00:00+00:00,p_u,min_filter,710.1,manually filtered by bav,
+2025-05-15T00:00:00+00:00,2025-09-22T00:00:00+00:00,p_u,min_filter,715,manually filtered by bav,
