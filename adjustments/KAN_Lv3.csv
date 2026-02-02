@@ -3,6 +3,5 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,2024-02-01T00:00:00+00:00,z_boom_cor_u,min_filter,2.46, ,
 ,,gps_alt,min_filter,600.0, removing noise (bav),
 2024-08-23T13:00:00+00:00,,z_surf_2,add,-2.16, ,
-2025-08-25T15:00:00+00:00,,z_surf_2,add,-3.0, ,
-2023-08-25T15:00:00+00:00,,z_ice_surf,add,14.0, ,
-2025-08-25T15:00:00+00:00,,z_ice_surf,add,-2.7, ,
+2025-08-25T14:00:00+00:00,,z_surf_2,add,-3.0, ,
+2025-08-25T14:00:00+00:00,,z_pt_cor,add,-2.6, ,

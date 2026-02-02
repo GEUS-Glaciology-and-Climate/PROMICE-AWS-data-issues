@@ -19,3 +19,5 @@ t0,t1,variable,flag,comment,URL_graphic
 2025-02-01T00:00:00+00:00,2025-05-15T00:00:00+00:00,dsr usr,RIME,manually detected as rime-affected (bav),
 
 2025-11-13T00:00:00+00:00,,wdir_u wspd_u wspd_i wdir_i,NAN,lower wspd than upper level (bav),
+
+2026-01-13T00:00:00+00:00,,z_boom_l,NAN,bad data (bav),
