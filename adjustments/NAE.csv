@@ -1,6 +1,10 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_cor_l,max_filter,3,manually adjusted by bav,
 ,,z_boom_cor_u,min_filter,1.6,manually adjusted by bav,
+
+2025-10-15T00:00:00+00:00,2026-01-11T00:00:00+00:00,z_boom_cor_l,min_filter,0.6,manually adjusted by bav,
+2025-10-15T00:00:00+00:00,,z_boom_cor_l,max_filter,0.8,manually adjusted by bav,
+
 ,,rh_l,min_filter,55,manually adjusted by bav,
 ,,rh_u,min_filter,55,manually adjusted by bav,
 ,,rh_i,min_filter,40,manually adjusted by bav,

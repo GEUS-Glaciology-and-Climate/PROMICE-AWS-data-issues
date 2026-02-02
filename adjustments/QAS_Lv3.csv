@@ -1,6 +1,8 @@
 t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
-,2023-03-01T00:00:00+00:00,z_boom_cor_u,min_filter,2.4, ,
+,,z_boom_cor_u,min_filter,1.1, filtering outliers (bav),
+2024-07-01T00:00:00+00:00,,z_boom_cor_u,min_filter,2.3, filtering outliers (bav),
+,2023-10-29T00:00:00+00:00,z_boom_cor_u,min_filter,2.4, ,
 2023-08-01T00:00:00+00:00,2023-09-01T14:00:00+00:00,z_stake_cor,max_filter,6.65, ,
 2023-09-01T00:00:00+00:00,,z_surf_2,add,-4.5, ,
 2025-09-02T12:00:00+00:00,,z_surf_2,add,-5.5, ,
