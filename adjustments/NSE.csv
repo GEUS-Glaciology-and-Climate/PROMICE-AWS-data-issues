@@ -13,6 +13,9 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2024-05-01T00:00:00+00:00,,z_surf_2,add,1.5,mast raise (bav),
 2025-05-20T11:00:00+00:00,,z_surf_1,add,2.2,mast raise (bav),
 2025-05-20T11:00:00+00:00,,z_surf_2,add,2.2,mast raise (bav),
+2026-05-01T10:30:00+00:00,,z_surf_1,add,1.0,mast raise (bav),
+2026-05-01T09:30:00+00:00,,z_surf_2,add,1.1,mast raise (bav),
+
 2022-02-01T00:00:00+00:00,2022-07-01T00:00:00+00:00,t_u,max_filter,-20.7,,
 2022-05-01T00:00:00+00:00,2022-10-01T00:00:00+00:00,rh_l,min_filter,50.0,,
 2022-04-01T00:00:00+00:00,2022-10-01T00:00:00+00:00,t_l,max_filter,-2.2,,
