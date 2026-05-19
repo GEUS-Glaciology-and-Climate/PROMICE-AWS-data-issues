@@ -1,9 +1,9 @@
 t0,t1,variable,flag,comment,URL_graphic
-2009-10-27T00:00:00+00:00,2009-11-26T00:00:00+00:00,z_pt_cor,NAN,manually flagged by bav,
-2011-09-07T00:00:00+00:00,2011-09-27T00:00:00+00:00,z_pt_cor,NAN,manually flagged by bav,
-2020-10-24T00:00:00+00:00,2021-09-17T00:00:00+00:00,z_pt_cor,NAN,2x more ablation than stakes - more than in 2012 - manually flagged by bav,
-2021-09-03T00:00:00+00:00,2022-06-05T00:00:00+00:00,z_pt_cor,NAN,manually flagged by bav,
-2022-09-04T00:00:00+00:00,2023-06-15T00:00:00+00:00,z_pt_cor,NAN,manually flagged by bav,
+2009-10-27T00:00:00+00:00,2009-11-26T00:00:00+00:00,z_pt,NAN,manually flagged by bav,
+2011-09-07T00:00:00+00:00,2011-09-27T00:00:00+00:00,z_pt,NAN,manually flagged by bav,
+2020-10-24T00:00:00+00:00,2021-09-17T00:00:00+00:00,z_pt,NAN,2x more ablation than stakes - more than in 2012 - manually flagged by bav,
+2021-09-03T00:00:00+00:00,2022-06-05T00:00:00+00:00,z_pt,NAN,manually flagged by bav,
+2022-09-04T00:00:00+00:00,2023-06-15T00:00:00+00:00,z_pt,NAN,manually flagged by bav,
 
 2008-06-07T00:00:00+00:00,2008-09-11T00:00:00+00:00,z_boom_u,NAN,manually flagged by bav,
 
