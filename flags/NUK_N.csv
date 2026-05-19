@@ -1,8 +1,8 @@
 t0,t1,variable,flag,comment,URL_graphic
 ,2011-08-01T00:00:00+00:00,z_stake,CHECKME,manually flagged by bav,
-,2011-04-01T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
-2011-10-01T00:00:00+00:00,2011-12-01T00:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
-2012-08-29T00:00:00+00:00,2013-07-21T15:00:00+00:00,z_pt_cor,CHECKME,manually flagged by bav,
+,2011-04-01T00:00:00+00:00,z_pt,CHECKME,manually flagged by bav,
+2011-10-01T00:00:00+00:00,2011-12-01T00:00:00+00:00,z_pt,CHECKME,manually flagged by bav,
+2012-08-29T00:00:00+00:00,2013-07-21T15:00:00+00:00,z_pt,CHECKME,manually flagged by bav,
 2011-06-18T00:00:00+00:00,2012-08-31T00:00:00+00:00,t_i_.*($),CHECKME,manually flagged by bav,
 
 ,2011-08-23T17:00:00+00:00, wspd_u, NAN,manually flagged by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/91
