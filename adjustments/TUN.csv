@@ -10,3 +10,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 
 ,2023-05-01T00:00:00+00:00,tilt_y,min_filter,0,,
 ,2023-05-01T00:00:00+00:00,tilt_x,max_filter,0,,
+
+2026-06-19T14:00:00+00:00,,z_surf_1,add,1.5,mast raise (bav),
+2026-06-19T14:00:00+00:00,,z_surf_2,add,1.5,mast raise (bav),
