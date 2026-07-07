@@ -17,4 +17,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2023-06-01T00:00:00+00:00,,z_surf_2,add,1.5,mast raise (bav),
 2025-06-11T18:00:00+00:00,,z_surf_1,add,1.5,mast raise (bav),
 2025-06-11T18:00:00+00:00,,z_surf_2,add,1.5,mast raise (bav),
+2026-06-09T15:00:00+00:00,,z_surf_1,add,1.5,mast raise (bav),
+2026-06-09T15:00:00+00:00,,z_surf_2,add,1.5,mast raise (bav),
 2024-05-22T00:00:00+00:00,2024-09-16T00:00:00+00:00,p_u,min_filter,780.0,few outliers manually removed by bav,

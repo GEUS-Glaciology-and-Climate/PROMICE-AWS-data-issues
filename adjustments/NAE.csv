@@ -19,3 +19,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2025-05-01T00:00:00+00:00,2025-11-01T00:00:00+00:00,p_u,min_filter,700,manually filtered by bav,
 2025-05-13T00:00:00+00:00,2025-10-01T00:00:00+00:00,p_u,min_filter,710.1,manually filtered by bav,
 2025-05-15T00:00:00+00:00,2025-09-22T00:00:00+00:00,p_u,min_filter,715,manually filtered by bav,
+
+2026-06-12T06:00:00+00:00,,z_surf_1,add,1.65,mast raise (bav),
+2026-06-12T06:00:00+00:00,,z_surf_2,add,1.65,mast raise (bav),
