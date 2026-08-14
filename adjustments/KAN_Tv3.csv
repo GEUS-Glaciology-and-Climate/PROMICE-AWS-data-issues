@@ -5,3 +5,5 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,2024-06-15T00:00:00+00:00,z_pt_cor,min_filter,14.6,  removing noise (bav),
 2024-07-01T00:00:00+00:00,2024-07-30T00:00:00+00:00,z_pt_cor,max_filter,13.9,  removing noise (bav),
 2025-05-15T00:00:00+00:00, ,z_surf_2,add,-4.8,  stake maintenance (bav),
+2025-08-24T14:00:00+00:00, ,z_surf_2,add,-4.8,  stake maintenance (bav),
+2026-07-01T14:00:00+00:00, ,z_surf_1,min_filter,20,  stake maintenance (bav),
