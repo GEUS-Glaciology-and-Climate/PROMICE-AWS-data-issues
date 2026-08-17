@@ -2,6 +2,15 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 2012-08-11T00:00:00+00:00, 2015-08-03T13:00:00+00:00, wdir_u, rotate,180.0, , https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/1
 ,,t_i_.*($),min_filter,-30.0,,
+
+2014-03-10T00:00:00+00:00,2015-03-10T00:00:00+00:00,z_boom_u,min_filter,2, outilers (bav),
+2015-03-10T00:00:00+00:00,2018-03-18T00:00:00+00:00,z_boom_u,min_filter,1.7, outilers (bav),
+2015-06-26T00:00:00+00:00,2018-03-18T00:00:00+00:00,z_boom_cor_u,max_filter,2.5, outilers (bav),
+
+2015-07-10T00:00:00+00:00,2016-04-10T00:00:00+00:00,z_boom_cor_u,min_filter,2.2, outilers (bav),
+2016-06-23T00:00:00+00:00,2017-05-08T00:00:00+00:00,z_boom_cor_u,min_filter,2.2, outilers (bav),
+2017-06-11T00:00:00+00:00,2018-03-02T00:00:00+00:00,z_boom_cor_u,min_filter,2.2, outilers (bav),
+
 2009-08-18T00:00:00+00:00,,z_ice_surf,add,-19.1,manually adjusted by bav,
 2013-08-06T00:00:00+00:00,,z_ice_surf,add,-0.3,manually adjusted by bav,
 2015-08-04T00:00:00+00:00,,z_ice_surf,add,-5.75,manually adjusted by bav,

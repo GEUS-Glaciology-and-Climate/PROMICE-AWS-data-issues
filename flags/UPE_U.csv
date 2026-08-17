@@ -7,7 +7,8 @@ t0,t1,variable,flag,comment,URL_graphic
 2021-09-03T00:00:00+00:00,2021-09-12T00:00:00+00:00,z_pt,CHECKME,manually flagged by bav,
 2023-08-12T00:00:00+00:00,2023-08-16T00:00:00+00:00,z_pt,NAN,Manually flagged by bav,
 2023-09-17T10:00:00+00:00,2023-12-01T00:00:00+00:00,z_pt,NAN,Manually flagged by bav,
-2025-09-01T00:00:00+00:00,2025-10-01T00:00:00+00:00,z_pt,NAN,Manually flagged by bav,
+2025-09-01T00:00:00+00:00,2026-07-12T00:00:00+00:00,z_pt,NAN,z_pt decreasing when z_boom still shows snow (bav),
+2026-08-15T00:00:00+00:00,,z_pt,NAN,Manually flagged by bav,
 
 2009-10-31T00:00:00+00:00,2009-11-02T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
 2010-01-06T00:00:00+00:00,2010-01-10T00:00:00+00:00,dlr ulr dsr usr,RIME,automatically detected as rime-affected (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/61
