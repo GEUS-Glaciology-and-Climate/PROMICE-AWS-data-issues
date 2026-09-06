@@ -3,3 +3,5 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_cor_u,min_filter,1.8, maximum snow height of 0.7 m at that site,
 ,,t_i_.*($),min_filter,-30.0,,
 ,,p_u,min_filter,750.0,,
+
+2026-08-12T00:00:00+00:00,,z_ice_surf,add,-10.75,manually adjusted by bav,
