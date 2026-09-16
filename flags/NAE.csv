@@ -7,7 +7,8 @@ t0,t1,variable,flag,comment,URL_graphic
 2024-03-15T00:00:00+00:00,2024-03-20T00:00:00+00:00,p_u p_l p_i,NAN,Manually flagged by maclu. Suspicious pressure data ,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/140
 2024-03-03T00:00:00+00:00,2024-03-25T03:00:00+00:00,wspd_l wspd_i wdir_l wdir_i,CONFIRMED, too much zero values (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/145
 
-
+2024-11-01T00:00:00+00:00,2025-05-15T00:00:00+00:00,dsr usr ulr dlr rh_u rh_l,RIME,manually detected as rime-affected (bav),
+2025-10-01T00:00:00+00:00,2026-04-20T00:00:00+00:00,dsr usr ulr dlr rh_u rh_l,RIME,manually detected as rime-affected (bav),
 
 2025-11-13T00:00:00+00:00,,wdir_u wspd_u wspd_i wdir_i,NAN,lower wspd than upper level (bav),
 
