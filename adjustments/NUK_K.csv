@@ -11,7 +11,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2025-09-01T00:00:00+00:00,2025-11-01T00:00:00+00:00,z_stake,max_filter,4,manually adjusted by bav,
 2025-08-12T00:00:00+00:00,2025-09-07T00:00:00+00:00,z_boom_u,min_filter,2.1,manually adjusted by bav,
 
-
 2014-08-12T00:00:00+00:00,,z_ice_surf,add,1.25,manually adjusted by bav,
 2014-08-28T00:00:00+00:00,,z_ice_surf,add,-1.25,manually adjusted by bav,
 2018-06-26T00:00:00+00:00,,z_ice_surf,add,0.07,manually adjusted by bav,
@@ -19,12 +18,13 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2019-09-12T00:00:00+00:00,,z_ice_surf,add,-1.0,manually adjusted by bav,
 2020-08-21T00:00:00+00:00,,z_ice_surf,add,-7.9,manually adjusted by bav,
 2020-08-28T18:00:00+00:00,,z_ice_surf,add,-0.22,manually adjusted by bav,
-2023-05-31T00:00:00+00:00,,z_ice_surf,add,-17.0,manually adjusted by bav,
+2023-05-31T00:00:00+00:00,2024-05-31T00:00:00+00:00,z_ice_surf,add,-17.0,manually adjusted by bav,
 2024-08-01T00:00:00+00:00,,z_ice_surf,add,-1.5,manually adjusted by bav,
 
 2023-09-21T00:00:00+00:00,,z_surf_2,add,-3.0,manually adjusted by bav,
 2025-08-27T00:00:00+00:00,,z_surf_2,add,-2,manually adjusted by bav,
-2017-07-04T00:00:00+00:00,,z_surf_1,add,-0.7,manually adjusted by bav,
+2026-09-07T00:00:00+00:00,,z_surf_2,add,-2,manually adjusted by bav,
+2017-07-04T13:00:00+00:00,,z_surf_1,add,-0.7,manually adjusted by bav,
 
 2022-09-01T00:00:00+00:00,2022-10-01T00:00:00+00:00,z_stake_cor,max_filter,3.0,,
 2022-06-01T00:00:00+00:00,2022-09-05T00:00:00+00:00,z_boom_cor_u,min_filter,2.55,,
