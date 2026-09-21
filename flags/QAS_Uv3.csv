@@ -8,7 +8,7 @@ t0,t1,variable,flag,comment,URL_graphic
 2026-07-04T00:00:00+00:00,2026-08-31T00:00:00+00:00,z_boom_u,NAN,instrument not working (bav),
 2026-08-04T00:00:00+00:00,2026-08-31T00:00:00+00:00,z_pt,NAN,instrument not working properly (bav),
 2026-07-03T00:00:00+00:00,2026-07-09T10:00:00+00:00,z_pt,NAN,instrument not working properly (bav),
-2026-07-15T00:00:00+00:00,2026-07-17T10:00:00+00:00,z_pt,NAN,instrument not working properly (bav),
+2026-01-15T00:00:00+00:00,2026-07-24T10:00:00+00:00,z_pt,NAN,instrument not working properly (bav),
 
 2022-01-28T00:00:00+00:00, 2022-05-01T00:00:00+00:00, dlr ulr usr dsr usr_cor dsr_cor t_rad, CONFIRMED, radiometer buried ? (bav),
 
