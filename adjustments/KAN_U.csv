@@ -53,4 +53,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2025-12-14T00:00:00+00:00,,t_i_10,max_filter,-5.0,outlier removal (bav),
 ,,t_i_11,min_filter,-17.0,outlier removal (bav),
 ,,t_i_11,max_filter,-1.0,outlier removal (bav),
-
+# auto-suggested 2026-11-24
+2009-04-04T23:10:00+00:00,,z_surf_2,add,0.5368,auto: z_surf_2 to z_surf_1 over the whole record,
+2026-11-18T11:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

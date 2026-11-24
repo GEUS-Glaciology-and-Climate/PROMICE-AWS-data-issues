@@ -9,3 +9,8 @@ t0, t1, variable, adjust_function, adjust_value, comment, URL_graphic
 2026-05-01T00:00:00+00:00,,z_surf_2,add,1,flagged by bav,
 
 #,2022-05-22T00:00:00+00:00,z_surf_2,min_filter,0.36,flagged by bav,
+# auto-suggested 2026-11-24
+2022-08-28T23:30:00+00:00,,z_surf_1,add,-0.4661,auto: 2022 z_surf_1 to z_surf_2 after ablation,
+2026-08-28T23:00:00+00:00,,z_surf_1,add,-0.9707,auto: 2026 z_surf_1 to z_surf_2 after ablation,
+2022-05-28T13:30:00+00:00,,z_surf_2,add,-0.2717,auto: z_surf_2 relative to its first week; z_surf_2 to z_surf_1 in the first week,
+2026-11-18T12:00:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,
