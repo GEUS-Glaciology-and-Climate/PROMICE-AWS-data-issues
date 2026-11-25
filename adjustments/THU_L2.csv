@@ -11,3 +11,12 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2022-01-01T00:00:00+00:00,,z_surf_1,add,-0.15,manually adjusted by bav,
 2025-07-19T19:00:00+00:00,,z_surf_1,add,-0.65,manually adjusted by bav,
 2026-05-01T00:00:00+00:00,,z_surf_1,add,-6,manually adjusted by bav,
+# auto-suggested 2026-11-24
+2022-05-16T17:00:00+00:00,,z_ice_surf,add,-17.8245,auto: z_ice_surf relative to its first week,
+2026-06-09T18:00:00+00:00,,z_ice_surf,add,-5.4817,auto: 2026 z_ice_surf to z_surf_2 at start of ablation,
+2022-08-14T08:00:00+00:00,,z_surf_1,add,-1.9323,auto: 2022 z_surf_1 to z_ice_surf at end of ablation,
+2023-08-22T18:00:00+00:00,,z_surf_1,add,-1.9686,auto: 2023 z_surf_1 to z_ice_surf at end of ablation,
+2024-09-01T00:00:00+00:00,,z_surf_1,add,-1.6141,auto: 2024 z_surf_1 to z_surf_2 in winter without ablation,
+2026-08-03T17:00:00+00:00,,z_surf_1,add,4.1057,auto: 2026 z_surf_1 to z_surf_2 after ablation,
+2026-08-03T17:00:00+00:00,,z_surf_2,add,-1.6683,auto: 2026 z_surf_2 to z_ice_surf at end of ablation,
+2026-11-18T01:00:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

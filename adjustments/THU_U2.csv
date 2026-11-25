@@ -14,3 +14,11 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2021-09-06T19:00:00+00:00,,z_surf_2,add,1.6,manually adjusted by bav,
 
 2023-07-01T01:00:00+00:00,,z_boom_u,delete_when_same_as_z_stake,0.07,manually adjusted by bav,https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/3
+# auto-suggested 2026-11-24
+2018-08-28T23:50:00+00:00,,z_surf_1,add,-0.1918,auto: 2018 z_surf_1 to last z_surf_2 of the year,
+2019-08-28T23:50:00+00:00,,z_surf_1,add,-1.092,auto: 2019 z_surf_1 to z_surf_2 after ablation,
+2020-08-28T23:50:00+00:00,,z_surf_1,add,-0.1169,auto: 2020 z_surf_1 to z_surf_2 after ablation,
+2021-08-28T23:50:00+00:00,,z_surf_1,add,-0.2494,auto: 2021 z_surf_1 to z_surf_2 after ablation,
+2022-08-28T23:50:00+00:00,,z_surf_1,add,0.1134,auto: 2022 z_surf_1 to z_surf_2 after ablation,
+2018-05-25T17:20:00+00:00,,z_surf_2,add,0.1117,auto: z_surf_2 relative to its first week; z_surf_2 to z_surf_1 in the first week,
+2023-08-18T21:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

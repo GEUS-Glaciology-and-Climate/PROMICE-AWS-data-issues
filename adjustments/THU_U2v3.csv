@@ -1,0 +1,6 @@
+t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
+# auto-suggested 2026-11-24
+2024-08-28T23:00:00+00:00,,z_surf_1,add,-1.0122,auto: 2024 z_surf_1 to z_surf_2 after ablation,
+2025-08-28T23:00:00+00:00,,z_surf_1,add,-0.1371,auto: 2025 z_surf_1 to z_surf_2 after ablation,
+2024-05-18T11:00:00+00:00,,z_surf_2,add,0.0085,auto: z_surf_2 relative to its first week; z_surf_2 to z_surf_1 in the first week,
+2026-07-28T06:00:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,
