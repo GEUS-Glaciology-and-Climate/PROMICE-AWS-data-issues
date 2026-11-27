@@ -14,9 +14,11 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2024-08-19T16:00:00+00:00,,z_ice_surf,add,-0.009,auto: 2024 z_ice_surf to z_surf_2 at start of ablation,
 2024-09-27T23:50:00+00:00,,z_surf_1,add,-2.3988,auto: 2024 z_surf_1 to z_surf_2 after ablation,
 2025-09-05T05:50:00+00:00,,z_surf_1,add,-2.7535,auto: 2025 z_surf_1 to z_surf_2 after ablation,
-2026-09-06T06:00:00+00:00,,z_surf_1,add,-4.1029,auto: 2026 z_surf_1 to z_surf_2 after ablation,
 2024-08-12T17:20:00+00:00,,z_surf_2,add,0.0833,auto: z_surf_2 relative to its first week; z_surf_2 to z_surf_1 in the first week,
 2024-09-27T23:50:00+00:00,,z_surf_2,add,-1.8948,auto: 2024 z_surf_2 to z_ice_surf at end of ablation,
 2025-09-05T05:50:00+00:00,,z_surf_2,add,0.1617,auto: 2025 z_surf_2 to z_ice_surf at end of ablation,
-2026-09-06T06:00:00+00:00,,z_surf_2,add,-6.1848,auto: 2026 z_surf_2 to z_ice_surf at end of ablation,
-2026-11-18T11:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,
+# --- proposed (surface height review 2026-11-26) ---
+# auto-suggested 2026-11-26 after surface height review
+2026-08-21T03:00:00+00:00,,z_surf_1,add,-4.0476,auto: 2026 z_surf_1 to z_surf_2 after ablation,
+2026-08-21T03:00:00+00:00,,z_surf_2,add,-6.1354,auto: 2026 z_surf_2 to z_ice_surf at end of ablation,
+2026-11-26T19:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,
