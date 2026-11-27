@@ -4,3 +4,8 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,2025-09-01T00:00:00+00:00,z_pt_cor,max_filter,9.07, maximum height of the boom on tripod AWS,
 ,2025-09-01T00:00:00+00:00,z_pt_cor,min_filter,8.8, maximum height of the boom on tripod AWS,
 ,,z_stake_cor,max_filter,2.0, maximum height of the boom on tripod AWS,
+# auto-suggested 2026-11-24
+2024-08-28T23:00:00+00:00,,z_surf_1,add,-0.0431,auto: 2024 z_surf_1 to z_surf_2 after ablation,
+2025-08-28T23:00:00+00:00,,z_surf_1,add,-0.5994,auto: 2025 z_surf_1 to z_surf_2 after ablation,
+2024-08-11T22:00:00+00:00,,z_surf_2,add,0.0359,auto: z_surf_2 relative to its first week; z_surf_2 to z_surf_1 in the first week,
+2026-11-18T12:00:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

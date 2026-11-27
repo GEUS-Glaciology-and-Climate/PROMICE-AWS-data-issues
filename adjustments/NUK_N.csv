@@ -11,3 +11,13 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2013-10-11T12:00:00+00:00,,z_ice_surf,add,1.0,manually adjusted by bav,
 2012-08-28T00:00:00+00:00,,z_surf_2,add,-5.0,manually adjusted by bav,
 2013-07-24T15:00:00+00:00,,z_surf_2,add,-1.0,manually adjusted by bav,
+# auto-suggested 2026-11-24
+2011-04-02T00:00:00+00:00,,z_ice_surf,add,-13.7332,auto: z_ice_surf to z_surf_1 when installed later,
+2011-06-15T01:00:00+00:00,,z_ice_surf,add,-0.0041,auto: 2011 z_ice_surf to z_surf_1 at start of ablation,
+2011-08-26T12:00:00+00:00,,z_surf_1,add,-5.1557,auto: 2011 z_surf_1 to z_surf_2 after ablation,
+2012-09-01T00:00:00+00:00,,z_surf_1,add,-4.8918,auto: 2012 z_surf_1 to z_surf_2 in winter without ablation,
+2013-08-09T14:00:00+00:00,,z_surf_1,add,-1.89,auto: 2013 z_surf_1 to z_surf_2 after ablation,
+2011-08-26T12:00:00+00:00,,z_surf_2,add,-4.6981,auto: 2011 z_surf_2 to z_ice_surf at end of ablation,
+2013-08-09T14:00:00+00:00,,z_surf_2,add,-0.0337,auto: 2013 z_surf_2 to z_ice_surf at end of ablation,
+2014-07-15T11:00:00+00:00,,z_surf_2,add,1.405,auto: 2014 z_surf_2 to z_ice_surf at end of ablation,
+2014-07-25T11:30:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

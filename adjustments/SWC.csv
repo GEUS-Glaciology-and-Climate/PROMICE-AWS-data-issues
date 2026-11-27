@@ -3,3 +3,10 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 , 2022-08-02T23:00:00+00:00, wdir_u, rotate,-150.0, , https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/17
 ,,p_u,max_filter,925.0, ,
 ,,z_pt_cor,min_filter,13.3,,
+# auto-suggested 2026-11-24
+2020-08-08T20:50:00+00:00,,z_ice_surf,add,-13.4216,auto: z_ice_surf relative to its first week,
+2020-09-01T00:00:00+00:00,,z_surf_1,add,0.0514,auto: 2020 z_surf_1 to z_surf_2 in winter without ablation,
+2021-09-01T00:00:00+00:00,,z_surf_1,add,-0.0313,auto: 2021 z_surf_1 to z_surf_2 in winter without ablation,
+2022-09-01T00:00:00+00:00,,z_surf_1,add,0.0705,auto: 2022 z_surf_1 to z_surf_2 in winter without ablation,
+2020-08-08T20:50:00+00:00,,z_surf_2,add,-0.0215,auto: z_surf_2 relative to its first week; z_surf_2 to z_surf_1 in the first week,
+2023-02-14T20:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

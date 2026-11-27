@@ -4,3 +4,9 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,gps_lat,min_filter,69.488, manually filtered by bav, https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/74
 2022-06-01T00:00:00+00:00,,z_surf_1,add,0.4,manually adjusted by bav,
 2022-06-01T00:00:00+00:00,,z_surf_2,add,1.4,manually adjusted by bav,
+# auto-suggested 2026-11-24
+2022-07-17T00:10:00+00:00,,z_ice_surf,add,-13.0056,auto: z_ice_surf intercept removed; 2022 z_ice_surf to z_surf_2 at start of ablation,
+2022-09-11T18:00:00+00:00,,z_surf_1,add,-1.2056,auto: 2022 z_surf_1 to z_surf_2 after ablation,
+2021-05-26T14:00:00+00:00,,z_surf_2,add,0.0017,auto: z_surf_2 relative to its first week; z_surf_2 to z_surf_1 in the first week,
+2022-09-11T18:00:00+00:00,,z_surf_2,add,-0.0568,auto: 2022 z_surf_2 to z_ice_surf at end of ablation,
+2026-02-12T21:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

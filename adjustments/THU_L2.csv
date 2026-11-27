@@ -11,3 +11,21 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2022-01-01T00:00:00+00:00,,z_surf_1,add,-0.15,manually adjusted by bav,
 2025-07-19T19:00:00+00:00,,z_surf_1,add,-0.65,manually adjusted by bav,
 2026-05-01T00:00:00+00:00,,z_surf_1,add,-6,manually adjusted by bav,
+# auto-suggested 2026-11-24
+# --- proposed (surface height review 2026-11-26) ---
+2026-01-01T00:00:00+00:00,,z_ice_surf,add,-1.7,data gap 2025-07-28 to 2026-06-08: rest of 2025 ablation set to 1.1 m (2022-2024 mean 1.8 m/yr) (review 2026-11),
+2026-01-01T00:00:00+00:00,,z_surf_2,add,-1.7,data gap 2025-07-28 to 2026-06-08: rest of 2025 ablation set to 1.1 m (2022-2024 mean 1.8 m/yr) (review 2026-11),
+2026-01-01T00:00:00+00:00,,z_surf_1,add,3.99,data gap: boom re-installed and set to z_surf_2 at restart (review 2026-11),
+2026-06-01T00:00:00+00:00,2026-06-09T06:00:00+00:00,z_ice_surf,max_filter,-999,first hours of the new pressure transducer (review 2026-11),
+# auto-suggested 2026-11-26 after surface height review
+2022-05-16T17:00:00+00:00,,z_ice_surf,add,-17.8245,auto: z_ice_surf relative to its first week,
+2024-06-24T00:00:00+00:00,,z_ice_surf,add,0.0481,auto: 2024 z_ice_surf to z_surf_2 at start of ablation,
+2026-06-09T07:00:00+00:00,,z_ice_surf,add,-5.6612,auto: 2026 z_ice_surf to z_surf_2 at start of ablation,
+2022-08-05T05:00:00+00:00,,z_surf_1,add,-1.7876,auto: 2022 z_surf_1 to z_ice_surf at end of ablation,
+2023-08-22T18:00:00+00:00,,z_surf_1,add,-2.1133,auto: 2023 z_surf_1 to z_ice_surf at end of ablation,
+2024-08-07T23:00:00+00:00,,z_surf_1,add,-1.7084,auto: 2024 z_surf_1 to z_surf_2 after ablation,
+2026-08-03T17:00:00+00:00,,z_surf_1,add,-1.6209,auto: 2026 z_surf_1 to z_surf_2 after ablation,
+2024-08-07T23:00:00+00:00,,z_surf_2,add,-0.1087,auto: 2024 z_surf_2 to z_ice_surf at end of ablation,
+2025-07-27T23:00:00+00:00,,z_surf_2,add,-0.0384,auto: 2025 z_surf_2 to z_ice_surf at end of ablation,
+2026-08-03T17:00:00+00:00,,z_surf_2,add,-1.6526,auto: 2026 z_surf_2 to z_ice_surf at end of ablation,
+2026-11-26T01:00:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

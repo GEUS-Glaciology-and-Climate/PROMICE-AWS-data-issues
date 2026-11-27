@@ -17,3 +17,11 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2025-02-12T12:00:00+00:00,2025-02-21T00:00:00+00:00,rh_u,min_filter,57.0, luft malfunction (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/172
 2025-02-15T00:00:00+00:00,2025-02-17T00:00:00+00:00,t_u,min_filter,-17.0, luft malfunction (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/172
 2025-02-01T00:00:00+00:00,2025-02-02T00:00:00+00:00,t_u,min_filter,-30.0, luft malfunction (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/172
+# auto-suggested 2026-11-24
+2022-08-28T23:50:00+00:00,,z_surf_1,add,-0.3585,auto: 2022 z_surf_1 to z_surf_2 after ablation,
+2023-08-28T23:50:00+00:00,,z_surf_1,add,-0.8511,auto: 2023 z_surf_1 to z_surf_2 after ablation,
+2024-08-28T23:50:00+00:00,,z_surf_1,add,0.3358,auto: 2024 z_surf_1 to z_surf_2 after ablation,
+2025-08-28T23:50:00+00:00,,z_surf_1,add,-0.7517,auto: 2025 z_surf_1 to z_surf_2 after ablation,
+2026-08-28T23:00:00+00:00,,z_surf_1,add,-1.8035,auto: 2026 z_surf_1 to z_surf_2 after ablation,
+2022-08-03T14:40:00+00:00,,z_surf_2,add,0.1355,auto: z_surf_2 relative to its first week; z_surf_2 to z_surf_1 in the first week,
+2026-11-18T11:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

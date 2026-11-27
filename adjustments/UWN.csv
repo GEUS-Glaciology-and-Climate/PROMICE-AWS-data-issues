@@ -1,0 +1,11 @@
+t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
+# auto-suggested 2026-11-24
+2020-04-19T11:00:00+00:00,,z_ice_surf,add,-1.2041,auto: z_ice_surf relative to its first week,
+2025-06-04T18:00:00+00:00,,z_ice_surf,add,-5.118,auto: 2025 z_ice_surf to z_surf_2 at start of ablation,
+2022-09-01T00:00:00+00:00,,z_surf_1,add,0.5807,auto: 2022 z_surf_1 to z_surf_2 in winter without ablation,
+2023-09-01T00:00:00+00:00,,z_surf_1,add,-6.1952,auto: 2023 z_surf_1 to z_surf_2 in winter without ablation,
+2024-09-01T00:00:00+00:00,,z_surf_1,add,2.4923,auto: 2024 z_surf_1 to z_surf_2 in winter without ablation,
+2026-09-01T00:00:00+00:00,,z_surf_1,add,-4.2854,auto: 2026 z_surf_1 to z_surf_2 in winter without ablation,
+2021-01-01T00:00:00+00:00,,z_surf_2,add,0.4913,auto: 2021 z_surf_2 to z_surf_1 after missing z_surf_2,
+2025-09-22T08:00:00+00:00,,z_surf_2,add,-0.1642,auto: 2025 z_surf_2 to z_ice_surf at end of ablation,
+2026-10-23T01:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

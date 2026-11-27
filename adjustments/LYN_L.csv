@@ -9,3 +9,14 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2024-07-04T00:00:00+00:00,2024-12-15T00:00:00+00:00,z_boom_cor_u,min_filter,1.65, spurious reflector,
 ,,t_i_.*($),min_filter,-30.0,outlier removal (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/146
 ,,t_i_.*($),max_filter,0.1,outlier removal (bav),https://github.com/GEUS-Glaciology-and-Climate/PROMICE-AWS-data-issues/issues/146
+# auto-suggested 2026-11-24
+2019-08-28T23:50:00+00:00,,z_surf_1,add,-0.0006,auto: 2019 z_surf_1 to z_surf_2 after ablation,
+2020-08-28T23:50:00+00:00,,z_surf_1,add,-0.0008,auto: 2020 z_surf_1 to z_surf_2 after ablation,
+2021-08-28T23:50:00+00:00,,z_surf_1,add,0.0019,auto: 2021 z_surf_1 to z_surf_2 after ablation,
+2022-08-28T23:50:00+00:00,,z_surf_1,add,-0.0009,auto: 2022 z_surf_1 to z_surf_2 after ablation,
+2023-08-28T23:50:00+00:00,,z_surf_1,add,0.0003,auto: 2023 z_surf_1 to z_surf_2 after ablation,
+2024-08-28T23:50:00+00:00,,z_surf_1,add,-0.0003,auto: 2024 z_surf_1 to z_surf_2 after ablation,
+2025-08-28T23:00:00+00:00,,z_surf_1,add,0.104,auto: 2025 z_surf_1 to z_surf_2 after ablation,
+2026-08-28T23:00:00+00:00,,z_surf_1,add,-0.0587,auto: 2026 z_surf_1 to z_surf_2 after ablation,
+2019-06-27T14:40:00+00:00,,z_surf_2,add,-0.002,auto: z_surf_2 relative to its first week; z_surf_2 to z_surf_1 in the first week,
+2026-11-18T00:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

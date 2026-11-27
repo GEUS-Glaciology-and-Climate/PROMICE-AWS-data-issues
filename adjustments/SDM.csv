@@ -8,3 +8,6 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2024-05-23T12:00:00+00:00,,z_surf_2,add,1.6,mast raise (bav),
 2025-05-19T17:00:00+00:00,,z_surf_1,add,3.0,mast raise (bav),
 2025-05-19T17:00:00+00:00,,z_surf_2,add,3.0,mast raise (bav),
+# auto-suggested 2026-11-24
+2021-06-21T18:10:00+00:00,,z_surf_2,add,-1.5514,auto: z_surf_2 to z_surf_1 over the whole record,
+2026-11-18T11:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

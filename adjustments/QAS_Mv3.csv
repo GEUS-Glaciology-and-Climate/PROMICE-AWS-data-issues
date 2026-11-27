@@ -2,3 +2,17 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 ,,z_boom_cor_u,max_filter,2.8, maximum height of the boom on tripod AWS,
 ,,t_i_.*($),min_filter,-20.0, min ice temperature (bav),
 2024-09-01T15:00:00+00:00,,z_surf_2,add,-2.4, 2024 maintenance (bav),
+# auto-suggested 2026-11-24
+2023-09-01T18:00:00+00:00,,z_ice_surf,add,-13.9868,auto: z_ice_surf relative to its first week,
+2023-08-31T20:00:00+00:00,,z_surf_1,add,-0.2251,auto: 2023 z_surf_1 to z_surf_2 after ablation,
+2023-09-01T18:00:00+00:00,,z_surf_2,add,0.0739,auto: z_surf_2 relative to its first week; z_surf_2 to z_surf_1 in the first week,
+# --- proposed (surface height review 2026-11-26) ---
+# auto-suggested 2026-11-26 after surface height review
+2024-07-11T00:00:00+00:00,,z_ice_surf,add,-0.1085,auto: 2024 z_ice_surf to z_surf_2 at start of ablation,
+2024-08-29T13:00:00+00:00,,z_surf_1,add,-3.0849,auto: 2024 z_surf_1 to z_surf_2 after ablation,
+2025-09-16T09:00:00+00:00,,z_surf_1,add,-2.735,auto: 2025 z_surf_1 to z_surf_2 after ablation,
+2026-09-12T13:00:00+00:00,,z_surf_1,add,-2.2196,auto: 2026 z_surf_1 to z_surf_2 after ablation,
+2024-08-29T13:00:00+00:00,,z_surf_2,add,-0.3265,auto: 2024 z_surf_2 to z_ice_surf at end of ablation,
+2025-09-16T09:00:00+00:00,,z_surf_2,add,-2.1145,auto: 2025 z_surf_2 to z_ice_surf at end of ablation,
+2026-09-12T13:00:00+00:00,,z_surf_2,add,-3.9265,auto: 2026 z_surf_2 to z_ice_surf at end of ablation,
+2026-11-26T19:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,

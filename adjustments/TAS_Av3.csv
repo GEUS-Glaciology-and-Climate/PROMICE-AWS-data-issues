@@ -15,3 +15,7 @@ t0,t1,variable,adjust_function,adjust_value,comment,URL_graphic
 2025-11-15T00:00:00+00:00,2025-11-18T00:00:00+00:00,t_i,max_filter,-0.5,sporadic positive air temperature in winter (bav), 
 2025-11-21T00:00:00+00:00,2025-12-21T00:00:00+00:00,t_i,max_filter,-0.5,sporadic positive air temperature in winter (bav), 
 2026-01-01T00:00:00+00:00,2026-03-01T00:00:00+00:00,t_i,max_filter,0.5,sporadic positive air temperature in winter (bav), 
+# auto-suggested 2026-11-24
+2026-08-28T23:50:00+00:00,,z_surf_1,add,-2.2767,auto: 2026 z_surf_1 to z_surf_2 after ablation,
+2024-09-11T15:20:00+00:00,,z_surf_2,add,-1.0827,auto: z_surf_2 relative to its first week; z_surf_2 to z_surf_1 in the first week,
+2026-11-18T11:10:00+00:00,,z_surf_combined,dynamic_adjust_after,,auto: shifts above reviewed up to here; automatic after,
